@@ -29,9 +29,9 @@ the way I cope with my insecurities is by studying
 
 not a tech bro
 
- interested in ai safety/any safety adjacent field
+interested in ai safety/any safety adjacent field
 
- \[WEBSITE IS A HUGE WORK IN PROGRESS\]. 
+\[WEBSITE IS A HUGE WORK IN PROGRESS\]. 
 
 
 [View My Resume](assets/Resume.pdf)
