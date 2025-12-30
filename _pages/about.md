@@ -25,15 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-the way I cope with my insecurities is by studying
+the way i cope with my insecurities is by studying. not a tech bro. not a startup bro. 
 
-not a tech bro
-
-interested in ai safety/any safety adjacent field
+ most interested in the idea of a "foundational understanding of AI" and how that knowledge can be leveraged for AI safety and safety-adjacent topics.
 
 \[WEBSITE IS A HUGE WORK IN PROGRESS\].
 
 
-[View My Resume](assets/Resume.pdf)
+[View My Resume](assets/Resume.pdf)!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
