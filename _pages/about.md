@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/ncnr'>NIST</a>
-
+subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/people/william-d-ratcliff'>NIST under Dr. Ratcliff</a>
 profile:
   align: right
   image: niketech.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>HOME: DMV(DC-Maryland)</p>
-    <p>CURRENTLY IN: Pittsburgh, PA</p>
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>CURRENTLY: Pittsburgh, PA</p>
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

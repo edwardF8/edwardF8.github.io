@@ -7,7 +7,7 @@ first_name: Edward
 middle_name: G.
 last_name: Friedman
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach out via gmail or linked-in!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   the way I cope with my insecurities is by studying. not a tech bro. interested in ai safety/any adjacent ai safety related fields.
 footer_text: >
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: some thoughts # blog_name will be displayed in your blog page
-blog_description: dont read too much into it -- respect ideas n such
+blog_description: don't read much into it; respect freedom of expression and ideas
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -123,12 +123,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -145,13 +139,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -171,8 +165,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts","_posts"]
 exclude:
+  - _news/long_ann_temp.md
+  - _news/short_ann_temp.md
   - _pages/books.md
   - _pages/projects.md
   - _pages/bookshelf.md
@@ -263,8 +259,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ['blog-logistics'] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
