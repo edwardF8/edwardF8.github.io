@@ -5,11 +5,10 @@ permalink: /
 subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/people/william-d-ratcliff'>NIST under Dr. Ratcliff</a>
 profile:
   align: right
-  image: niketech.JPEG
+  image: IMG_1264.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HOME: DMV(DC-Maryland)</p>
-    <p>CURRENTLY: Pittsburgh, PA</p>
+#    <p></p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -24,12 +23,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-the way i cope with my insecurities is by studying. not a tech bro. not a startup bro. 
+> the way I cope with my insecurities is by studying kinda. not a tech bro. not a startup bro. :pray:
 
- most interested in the idea of a "foundational understanding of AI" and how that knowledge can be leveraged for AI safety and safety-adjacent topics.
+Welcome to my semi professional/semi casual website.... Dont take this too seriously untill it looks serious :wink:
 
-\[WEBSITE IS A HUGE WORK IN PROGRESS\].
+---
 
+##### Research Interests:
+**Long Term**: Most interested in the idea of gaining a "foundational understanding of AI" and how that knowledge can be leveraged for AI safety and safety-adjacent topics.
 
-[View My Resume](assets/Resume.pdf)!
+**Short Term**: Currently exploring Causality and Interpretability (Spec, the intersection of *Causal Representation Learning* and *Mechanistic Interpretability*). 
+
+---
+
+##### Personal Bio:
+Interested in pursing a career in academia as a professor as of now. Outside of academics I like working out, music, and learning ab random things. I think i'll make a music and reading page during a summer maybe!
 
