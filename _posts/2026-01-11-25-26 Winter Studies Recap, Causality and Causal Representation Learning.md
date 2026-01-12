@@ -9,9 +9,9 @@ categories:
 
 (Will be updated soon -- Jan 11t, 2026)
 
-I`ve spent most my break understanding the basics of causality and causal representation learning(CRL), and will most likely spend the next semester(and possibly next summer) working on some research problems that approach model Interpretability with CRL. 
+I`ve spent most my break understanding the basics of causality and causal representation learning(CRL), and will most likely spend the next semester(and possibly next summer) working on some research problems that approach model interpretability with CRL. 
 
-I thought it would be a good exercise to write up my thoughts, and hopefully anyone reading will find this interesting and be motivated to use CRL-basd methods in AI. I really do think that they are a very promising approach(granted we can get over some hurdles) to many problems in the safety community. 
+I thought it would be a good exercise to write up the overall idea of the concepts I learned over break, and hopefully anyone reading will find this interesting and be motivated to use CRL-basd methods in AI. I really do think that they are a very promising approach(granted we can get over some hurdles) to many problems in the safety community. 
 
 > NOTE: I studied these topics through slides from 80-516(CMU Course) and focused more on the higher level topics. Hopefully this post wont embarrass me but if I get stuff wrong, sorry.  This is also very rushed, I have to start classes tomorrow but i`ve been meaning to get this out!
 

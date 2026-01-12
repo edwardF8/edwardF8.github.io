@@ -24,7 +24,7 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
  - [Freshman Fall(2025)](#freshman-fall2025)
  - [Freshmen Spring(2026)](#freshman-fall2025)
 
-> Inspired by past cmu scs alumni [Abigale Kim](https://abigalekim.github.io/courses/), [Fu Pu](https://fanpu.io/courses/) and others reviewers. 
+> Inspired by past cmu scs alumni [Abigale Kim](https://abigalekim.github.io/courses/), [Fan Pu](https://fanpu.io/courses/) and others reviewers. 
 
 --- 
 
