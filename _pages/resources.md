@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: Resources
+title: resources
 description: Self-study resources that I've used through the years, self-study guides, and study tips!
 nav: true
 nav_order: 3
