@@ -31,14 +31,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cmu-course-reviews",
-          title: "CMU Course Reviews",
+          title: "cmu course reviews",
           description: "Reviews about every course I took at CMU and Semester Reflections",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cmucourses/";
           },
         },{id: "nav-resources",
-          title: "Resources",
+          title: "resources",
           description: "Self-study resources that I&#39;ve used through the years, self-study guides, and study tips!",
           section: "Navigation",
           handler: () => {
@@ -51,7 +51,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-about",
+            },{id: "post-upcoming-blogs",
+        
+          title: "Upcoming Blogs",
+        
+        description: "Upcoming Posts/Ideas, here for accountability sake.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/upcoming/";
+          
+        },
+      },{id: "post-25-26-winter-studies-recap-causality-and-causal-representation-learning",
+        
+          title: "25-26 Winter Studies Recap, Causality and Causal Representation Learning",
+        
+        description: "A primer on causality and causal representation learning(kinda)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/25-26-Winter-Studies-Recap,-Causality-and-Causal-Representation-Learning/";
+          
+        },
+      },{id: "post-about",
         
           title: "about",
         
