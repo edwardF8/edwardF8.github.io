@@ -5,7 +5,7 @@ permalink: /
 subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/people/william-d-ratcliff'>NIST under Dr. Ratcliff</a>
 profile:
   align: right
-  image: IMG_1264.jpeg
+  image: mainphoto1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 #    <p></p>
