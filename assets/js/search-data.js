@@ -95,11 +95,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/about/";
           
         },
-      },{id: "news-joining-casi-board",
-          title: 'Joining CASI board!',
-          description: "",
-          section: "News",},{id: "news-finished-my-first-semester-cmu-read-about-here",
+      },{id: "news-finished-my-first-semester-cmu-read-about-here",
           title: 'Finished my first semester @ cmu, read about here!',
+          description: "",
+          section: "News",},{id: "news-joining-casi-board",
+          title: 'Joining CASI board!',
           description: "",
           section: "News",},{
         id: 'social-email',
