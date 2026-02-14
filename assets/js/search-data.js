@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-upcoming-blogs",
+            },{id: "post-opinion-piece-alignment-and-safety-benchmarks-are-cope-and-bring-complacency",
+        
+          title: "Opinion Piece | Alignment and Safety Benchmarks are Cope, and Bring Complacency",
+        
+        description: "Anthropic, the king of putting &quot;safety at the frontier&quot;, just dropped their newest and most powerful model to date. Yet with it comes questions about its true safety and alignment. The recent news motivated me to write some thoughts on &quot;benchmarks&quot; and the current state of safety from my POV. Many are using benchmarks to justify scaling, leading to complacency that harms the AI safety community as a whole.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/thoughtsonbenchmarks/";
+          
+        },
+      },{id: "post-upcoming-blogs",
         
           title: "Upcoming Blogs",
         
@@ -84,7 +95,10 @@ ninja.data = [{
             window.location.href = "/blog/2026/about/";
           
         },
-      },{id: "news-finished-my-first-semester-cmu-read-about-here",
+      },{id: "news-joining-casi-board",
+          title: 'Joining CASI board!',
+          description: "",
+          section: "News",},{id: "news-finished-my-first-semester-cmu-read-about-here",
           title: 'Finished my first semester @ cmu, read about here!',
           description: "",
           section: "News",},{
