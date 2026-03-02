@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-opinion-piece-alignment-and-safety-benchmarks-are-cope-and-bring-complacency",
+            },{id: "post-silent-semi-killers-extinction-level-impacts-of-ai-that-are-right-under-our-nose",
+        
+          title: "Silent Semi-Killers | Extinction-level impacts of AI that are right under our nose....",
+        
+        description: "Silent Semi-Killers are a group of underrepresented AI catastrophic outcomes that lead to major (but not directly extinction-level) effects on our society and are hiding in plane sight. They are often arise from a need to increase productivity in our society, and target systems that haven&#39;t/need to adjust to AI usage.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/silent-semi-killers/";
+          
+        },
+      },{id: "post-opinion-piece-alignment-and-safety-benchmarks-are-cope-and-bring-complacency",
         
           title: "Opinion Piece | Alignment and Safety Benchmarks are Cope, and Bring Complacency",
         
