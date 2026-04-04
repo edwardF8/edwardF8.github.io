@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-silent-semi-killers-extinction-level-impacts-of-ai-that-are-right-under-our-nose",
+            },{id: "post-are-we-cooked-reflections-from-2026-maia-hssit-workshop",
+        
+          title: "Are we cooked? | Reflections from 2026 MAIA-HSSIT Workshop.",
+        
+        description: ".",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reflectionsMAIA/";
+          
+        },
+      },{id: "post-silent-semi-killers-extinction-level-impacts-of-ai-that-are-right-under-our-nose",
         
           title: "Silent Semi-Killers | Extinction-level impacts of AI that are right under our nose....",
         
