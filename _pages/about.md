@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/people/william-d-ratcliff'>NIST under Dr. Ratcliff</a>
+subtitle: B.Sc. CS @ <a href='https://www.cs.cmu.edu/'> CMU</a> | Intern @ <a href = 'https://www.nist.gov/people/william-d-ratcliff'>NIST under Dr. Ratcliff</a> & <a href = 'https://xiangchensong.github.io/'>CMU under Xiangchen Song>
 profile:
   align: right
   image: mainphoto1.jpeg

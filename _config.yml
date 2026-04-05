@@ -201,6 +201,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-seo-tag
   - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
