@@ -24,9 +24,6 @@ latest_posts:
 ---
 
 > the way I cope with my insecurities is by studying. not a tech bro. not a startup bro. :pray:
-
-Welcome to my semi professional/semi casual website.... Dont take this too seriously unless its serious :wink: :thinking:
-
 ---
 
 ##### Research Interests:
