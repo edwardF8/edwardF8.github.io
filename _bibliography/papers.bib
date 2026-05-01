@@ -1,0 +1,27 @@
+@string{aps = {American Physical Society,}}
+
+
+@article{MLXRD1,
+  abbr={AI for Science},
+  title={Attention Is Not All You Need for Diffraction},
+  author={Baggett, E. J. and Friedman, E. G. and Shetty, A. and Chan-Sew, D. and Acha, V. and Dwarcherla, H. and Kienzle, P. and Ratcliff*, W.},
+  abstract={Determining crystal symmetry from powder X-ray diffraction is a central problem in materials characterization, yet multiple space groups can produce indistinguishable patterns, making automated classification difficult. We show that attention-based architectures, while superior to convolutional networks for this task, are insufficient on their own: reliable symmetry extraction requires encoding crystallographic knowledge into both the network architecture and the training curriculum. We introduce a physics-informed transformer that classifies powder patterns into 99 extinction groups, the most specific symmetry classification accessible from diffraction data alone, using an explicit sin^2(theta) coordinate channel, physics-aware positional encoding, and a structured multi-task decoder that separates geometric rule learning from holistic pattern recognition. A three-stage curriculum of balanced synthetic pretraining, realistic fine-tuning with explicit preferred-orientation modeling, and Bayesian prior injection proves essential for bridging the synthetic-to-real domain gap, while post-hoc temperature scaling rather than additional training is the key remaining ingredient for robust real-data transfer. By mapping predictions onto the directed acyclic graph of maximal translationengleiche subgroups, we show that the calibrated model's errors are not random but physically structured: they remain local on the subgroup hierarchy and flow predominantly toward lower-symmetry descendants, consistent with the physical erasure of systematic-absence cues by real-world noise. These results establish that physics-informed target design, curriculum, and calibrated inference matter as much as model capacity for scientific machine learning on diffraction data.},
+  journal={currently in review},
+  location={},
+  volume={},
+  issue={},
+  pages={},
+  numpages={0},
+  year={2026},
+  month={April},
+  publisher=aps,
+  doi={10.1103/PhysRev.47.777},
+  arXiv={2604.23811},
+  pdf={https://arxiv.org/pdf/2604.23811},
+  blog={},
+  dimensions={false},
+  google_scholar_id={},
+  additional_info={},
+  annotation={* William Ratcliff mentored the project<br>},
+  selected={false},
+}

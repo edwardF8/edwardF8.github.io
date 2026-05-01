@@ -55,7 +55,12 @@ table.table a {
     border: 1px solid var(--global-divider-color) !important;
   }
 }
-
+.small-note {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
