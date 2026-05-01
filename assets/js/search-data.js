@@ -123,6 +123,12 @@ ninja.data = [{
           section: "News",},{id: "news-joining-casi-board",
           title: 'Joining CASI board!',
           description: "",
+          section: "News",},{id: "news-i-will-be-taing-15-251-in-the-fall-next-sem",
+          title: 'I will be TAing 15-251 in the fall next sem :)',
+          description: "",
+          section: "News",},{id: "news-i-have-a-new-preprint-out-on-applying-ai-to-predicting-material-crystal-symmetry",
+          title: 'I have a new preprint out on applying AI to predicting material crystal...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
