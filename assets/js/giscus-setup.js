@@ -21,7 +21,7 @@ function determineGiscusTheme() {
     "data-repo": "edwardF8/edwardF8.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
-    "data-category-id": "",
+    "data-category-id": "DIC_kwDOQAqDJc4C8MO5",
     "data-mapping": "title",
     "data-strict": "1",
     "data-reactions-enabled": "1",
