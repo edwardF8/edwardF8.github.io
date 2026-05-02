@@ -41,9 +41,7 @@ the way I cope with my insecurities is by studying. not a tech bro or startup br
 
 **Short Term**: Currently exploring Causality and Interpretability (Spec, the intersection of *Causal Representation Learning* and *Mechanistic Interpretability*). 
 
-
 ---
-
 
 ##### Personal Bio:
 Interested in pursing a career in academia as a professor as of now. Outside of academics I like working out, music, and learning ab random things. I think i'll make a music and reading page during a summer maybe!
