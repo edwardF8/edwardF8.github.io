@@ -63,7 +63,7 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
 
  **Overall Semester Review**: wow 2nd semester at CMU. somehow I did more in my classes and did more outside of classes too. This semester I got much more into the AI safety community by joining the CASI board, which had me talking about this stuff much more often, going to more talks, reading more papers, and meeting people inside and outside CMU. My ADHD meds also kicked in like crazy(I started taking meds/a nonstimulat for the first time last sem), I found myself being able to communicate my thoughts and explain stuff much more, might just be placebo though. My GPA was a bit fried then it should have been, I got two borderline B's which sucks but I cant complain cuz I learned so much in my classes.
  
- I think I am happy with the direction/moves I made in this semester, but I also went through a lot of personal struggles (not gonna say on the blog :skull:) that I think I need to maybe add more social time thats not in clubs and academics, and personal wellness. I'll be alone for most of the summer, which I think gives me a good chance to sort of reflect and grow while still doing the same amount of work? Idk, we'll see :smile:
+ I think I am happy with the direction/moves I made in this semester, but I also went some personal struggles/realizations (not gonna say on the blog :skull:) which makes me think I need to add more social time thats not in (school) clubs and academics, and personal wellness. I'll be alone for most of the summer, which I think gives me a good chance to sort of reflect and grow while still doing the same amount of work? Idk, we'll see :smile:
 
 
 --- 
