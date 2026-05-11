@@ -32,7 +32,7 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
 --- 
 
 ### Sophomore Fall (2026)
- **Courses Took:**
+ **Courses being taken:**
   - 15-210 **Parallel and Sequential Data Structures and Algorithms**
  - 15-213 **Intro to Computer Systems**
  - 15-259 **Probability and Computing**
@@ -43,7 +43,7 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
  **Overall Semester Review**:
 
 ### Summer (2026)
- **Courses Took:**
+ **Courses being taken:**
  - 15-150 **Functional Programming**
 
  **Activities**:
@@ -52,16 +52,16 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
 
 
 ### Freshman Spring (2026)
- **Courses Being Taken:**
- - 11-485 **Intro to Deep Learning**
- - 15-251 **Great Ideas in Theoretical CS**
- - 21-266 **Vector Calculus with Matrix Algebra** 
- - 76-101 **Interpretation and Argument(Writing)**
+ **Courses Took:**
+ - 11-485 **Intro to Deep Learning** *Ramakrishnan*: hmmm, I took this class instead of taking 15-150 (with all my friends). This class has a reputation of being like 16-21 hrs/week historically, but recently a lot of sophomores will take it early(since it has like no prereqs...) so they can get into research . Lets run the good and the bad. **The bad**:  CMUs CS core is so good at having well-grounded classes but a lot of the times I felt like the content in IDL was very handwavy since it was low pre-reqs, which i think sort of cooked my motivation to learn as much as I could. **The good**: I think the homeworks and the projects were very good. The first part of homeworks had us basically remaking PyTorch from scratch, and the second part had us training actual models(with our grades being based on our performance in Kaggle competitions). I think I plan to take another deep learning course in the future when I have more mathematical maturity, but this def enough to help me do interesting safety research for now. 
+ - 15-251 **Great Ideas in Theoretical CS** *Sutner*, *Woodruff*: This class always stood out to be when I was looking into CMU in junior year of HS, and it didn't disappoint the hype. This class felt like concepts, with more interesting problems (and still community/environment). This class was my first introduction to CS theory, and I felt like even if I don't want to go into theory/use theory, just taking the classes enhances my thinking/problem solving skills. It was the same w concepts, I felt like as I took the class I got smarter :sob: (which isnt saying much...). This class got me really excited to take more theory and algorithms classes in the future too! I spent a lot a lot a lot of time trying to understand the problems and felt like I grew a lot over the semester. I was sososo close to an A too but I didnt clutch up like concepts. But ill be returning to TA next fall which im very excited about and grateful for!!! 
+ - 21-266 **Vector Calculus with Matrix Algebra** *Newstead*: It was fun taking a class with Clive seeing as he wrote the textbook we used in concepts. I took a calc-3 class in HS but I enjoyed this one more since it has the linear algebra pre-req, so it can generalize into higher dimensions. I've always felt like my geometry intuition was hella-cooked and it grew a lot as I took this class. Pretty fire, might take real analysis now...
+ - 76-101 **Interpretation and Argument(Writing)** *Szalkowski-Ference* : This is CMUs first year writing class, its organized so each class has some overlying topic. Mine was AI and art :skull:. The class was very diverse in terms of field, with people from all disciplines. The conversations were thus pretty interesting, esp since I come from the AI safety background (so lots of unique and good perspectives on AI implications and ethics from people who arent in the field). I also enjoyed the lessons too, which is the first time for an english class, it talked about like genre systems and conversational discourse, idk it was kinda cool to formalize the idea of writing (I guess I have a low bar of to impress). Also the professor was so goated, he was extremely chill and I think I was happy with a lot of the writing I produced in the class.  
  - 07-180 **Concepts in AI**: Ended up dropping :( 
 
  **Activities**: Board member on Carnegie AI Safety Initiative(CASI), SCS Student Advisory Council(SAC)
 
- **Overall Semester Review**:
+ **Overall Semester Review**: wowza 2nd semester at CMU. somehow I did more in my classes and did more outside of classes too. This semester I got much more into the AI safety community by joining the CASI board, which had me talking aboutthis stuff much more often, going to more talks, reading more papers, and meeting people inside and outside CMU. My ADHD meds also kicked in like crazy, I found myself being able to communicate my thoughts and explain stuff much more, might just be placebo though.
 
 
 --- 
@@ -71,7 +71,7 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
  - :heart: 15-151 **Math Foundations of CS**(also called "Concepts") *Mackey, Kuszmaul*: This is our intro to discrete class/intro to proof-based math class. It stresses the importance of writing rigorous proofs. From someone who didnt come from a comp-math background(unlike many in SCS), it was lwky really difficult, but so rewarding. Prof Mackey and Prof Kuszmaul(who teach like yin and yang) are goated professors and made it so enjoyable. I gen left this course thinking that im actually smarter, and yeah I surprisingly finished with an A which made me feel more accomplished then when I got into CMU ngl :sob: My TAs were also goated, we had like 40 people showing up to our recitations so shout out them. The environment in the class was so tuff, a 200-person lecture room had everyone actively talking/participating, which helped me stay motivated even when it got tough. Yeah this class was one of my fav experiences from the first semester and I feel like it will be one of those classes that I always remember taking. 
  - 21-241 **Matrices and Linear Transformations** *Kovalev*: Sadley I dont have as much to write unlike the previous class because this was a pretty standard linear algebra class. Prof Kovalev was teaching it for the first time and was extremely nice to everyone in the class. I really enjoyed the project at the end which had us extend one of the concepts to a list of topics in CS. This class was my only B because I felt like it was always lower on my priority list since I already took a linear class, which... yah didnt go too well for me. 
  - :heart: 15-122 **Principles of Imperative Computation** *Kohlbrenner*: As someone whos been learning code since 7th grade, and seen many diff types of college courses on programming, 122 is hands down the best ive ever seen. 122 is sort of a catch-all class that teaches you C, DSA, and most importantly, reasoning about code. The lectures and quizzes ask very intuition-based questions that have you reason about what the program is doing(i swear ts was actually unqiue). It was so tuff that Prof. Kohlbrenner was the head-TA for 122 when she was an undergrad at CMU, and she ran very engaging lectures which not only solidified the concepts, but also(and more importantly) built intuition needed for the quizzes and approaching programming in general. The projects were actually really fun and were connected to common software-engineering topics(not just dumb stuff like "build a maze app"). Yeah 122 was fire, the online discussion board was also fun. 
- - 80-100 **Intro to Philosophy**: *Mohseni*. So, lwky half of this course was logic and epistemology, cuz prof Mohseni is an epistemologist. While I would have liked to learn more about like metaphysics and ethics, I remembered that CMUs Philosphopy dept is very focused on more analytic philosophy. Mohseni was very nice, and taught epistemology very well, having me want to take a course on it in the future. \*Still a enjoyable experience just a bit diff then the traditional intro to philo class. 
+ - 80-100 **Intro to Philosophy**: *Mohseni*. So, lwky half of this course was logic and epistemology, cuz prof Mohseni is an epistemologist. While I would have liked to learn more about like metaphysics and ethics, I remembered that CMUs Philosophy dept is very focused on more analytic philosophy. Mohseni was very nice, and taught epistemology very well, having me want to take a course on it in the future. \*Still a enjoyable experience just a bit diff then the traditional intro to philo class. 
  - 07-128 **First Year Immigration Course (FIC)** This was just the seminar for cs majors, it was fun to see friends when i went. 
  - 07-131 **Great Practical Ideas for Computer Scientists(GPI)**. This mini class taught like practical tools, very chill and it helped keep me on deans list so its tuff. 
 
