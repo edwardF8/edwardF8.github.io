@@ -32,12 +32,12 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 <ul style="list-style-type: disc; padding-left: 2rem;">
   <li>First Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
   <li>Executive Board Member for <a href="https://cmuaisafety.com/">Carnegie AI Safety Initiative (CASI)</a></li>, co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.
-  <li>(Incoming) TA for <a href="https://www.anilada.com/courses/15251s17/www/policy.html">15-251 Great Ideas in Theoretical Computer Science</a>, CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
+  <li>(Incoming) TA for <a href="https://s22.cs251.com/index.html">15-251 _Great Ideas in Theoretical Computer Science_</a>, CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
 </ul>
 ---
 
 ##### Research Interests:
-**Long Term**: Most interested in developing methods to gain a "foundational understanding of AI" and using that insight for AI safety and safety-adjacent topics.
+**Long Term**: Most interested in developing methods to gain a "foundational understanding of AI" and using that insight for AI safety and safety-adjacent topics. I'm also growing more interesting in working on researching AI's direct implications on society and trying to steer public policy towards the best possible world (not rushing AI). 
 
 **Short Term**: Currently exploring Causality and Interpretability (Spec, the intersection of *Causal Representation Learning* and *Mechanistic Interpretability*). 
 
