@@ -31,9 +31,10 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
   <li>First Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
-  <li>Executive Board Member for <a href="https://cmuaisafety.com/">Carnegie AI Safety Initiative (CASI)</a></li>, co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.
-  <li>(Incoming) TA for (Incoming) TA for <a href="https://s22.cs251.com/index.html">15-251 <em><li>Great Ideas in Theoretical Computer Science</li></em></a>, CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking" 
+  <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
+  <li>(Incoming) TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>, CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
 </ul>
+
 ---
 
 ##### Research Interests:
