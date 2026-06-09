@@ -20,6 +20,9 @@
   const API = "https://ws.audioscrobbler.com/2.0/";
   const PLACEHOLDER = "2a96cbd8b46e442fc41c2b86b821562f"; // Last.fm "no image" star
   const REFRESH_MS = 30000;
+  const TIMEOUT_MS = 8000; // abort a hung request so it can't stall a section
+  const RETRIES = 2; // transient-failure retries before showing an error
+  const TRANSIENT_ERRORS = new Set([8, 11, 16, 29]); // Last.fm "try again" codes
 
   // Fetch the size that matches the display slot instead of always the biggest —
   // a 44px thumbnail should not download a 300px image. (Last.fm sizes:
@@ -53,7 +56,10 @@
     );
 
   /* --- API ---------------------------------------------------------------- */
-  async function api(method, params) {
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+  // One attempt, with an abort timeout so a hung request can't stall a section.
+  async function apiOnce(method, params) {
     const qs = new URLSearchParams({
       method,
       user: CFG.user,
@@ -61,11 +67,41 @@
       format: "json",
       ...params,
     });
-    const res = await fetch(`${API}?${qs}`);
-    if (!res.ok) throw new Error(`Last.fm ${method} HTTP ${res.status}`);
-    const data = await res.json();
-    if (data.error) throw new Error(`Last.fm ${method}: ${data.message}`);
-    return data;
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
+    try {
+      const res = await fetch(`${API}?${qs}`, { signal: ctrl.signal });
+      if (!res.ok) {
+        const e = new Error(`Last.fm ${method} HTTP ${res.status}`);
+        e.retryable = res.status >= 500 || res.status === 429; // server / rate-limit
+        throw e;
+      }
+      const data = await res.json();
+      if (data.error) {
+        const e = new Error(`Last.fm ${method}: ${data.message}`);
+        e.retryable = TRANSIENT_ERRORS.has(data.error);
+        throw e;
+      }
+      return data;
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+
+  // Retry transient failures (timeouts, network blips, 5xx/429, Last.fm "try
+  // again" codes) with a short backoff so one hiccup doesn't surface an error.
+  async function api(method, params) {
+    let lastErr;
+    for (let attempt = 0; attempt <= RETRIES; attempt++) {
+      try {
+        return await apiOnce(method, params);
+      } catch (e) {
+        lastErr = e;
+        if (attempt === RETRIES || e.retryable === false) break; // permanent → stop
+        await sleep(400 * (attempt + 1));
+      }
+    }
+    throw lastErr;
   }
 
   // Last.fm returns a single object instead of an array when there's one item.
