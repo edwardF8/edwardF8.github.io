@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cmu-course-reviews",
-          title: "cmu course reviews",
+        },{id: "nav-cmu-courses",
+          title: "cmu courses",
           description: "Reviews about every course I took at CMU and Semester Reflections",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cmucourses/";
           },
-        },{id: "nav-resources",
-          title: "resources",
-          description: "Self-study resources that I&#39;ve used through the years, self-study guides, and study tips!",
+        },{id: "nav-music",
+          title: "music",
+          description: "What I&#39;ve been listening to, pulled live from my Last.fm.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resources/";
+            window.location.href = "/music/";
           },
         },{id: "dropdown-blog",
               title: "blog",
