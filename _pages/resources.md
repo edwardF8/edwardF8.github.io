@@ -3,11 +3,12 @@ layout: page
 permalink: /resources/
 title: resources
 description: Self-study resources that I've used through the years, self-study guides, and study tips!
-nav: true
+nav: false
 nav_order: 3
 toc:
   sidebar: left
 ---
+(This page will be at some point updated and filled, at some point... - June 2026)
 ### Overview/Purpose
 Starting during the pandemic in 2020, Self-Studying, along with 2022 productivity and self-improvement online trends, have lwky shaped my life and identify. I've been self studying stuff since I was in 7th grade(i'll make a blog post about it one day maybe idk).
 

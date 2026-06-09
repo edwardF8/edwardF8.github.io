@@ -25,6 +25,15 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
+# Last.fm music stats (see /music/)
+# -----------------------------------------------------------------------------
+# Only the public username lives here. The read-only API key is not stored in
+# plaintext anywhere — it is XOR+base64 obfuscated in assets/js/lastfm.js and
+# reassembled at runtime, so secret-scanners and casual viewers can't harvest it.
+lastfm:
+  username: alifesaver
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
@@ -167,6 +176,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts","_posts"]
 exclude:
+  - notes/ # private local design notes — gitignored; also kept off local builds
   - _news/long_ann_temp.md
   - _news/short_ann_temp.md
   - _pages/books.md

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cmucourses/
-title: cmu course reviews
+title: cmu courses
 description: Reviews about every course I took at CMU and Semester Reflections
 nav: true
 nav_order: 3

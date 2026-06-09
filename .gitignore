@@ -11,3 +11,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# private local design notes/specs — never commit to the public repo
+notes/
