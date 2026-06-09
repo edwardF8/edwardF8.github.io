@@ -5,7 +5,7 @@
  *
  * Renders only the sections whose container elements exist on the page, so the
  * SAME script powers both the full /music/ page and a lone #lf-now "now playing"
- * widget on the home page.
+ * widget on the home page. Auto-refreshes every 30s while the tab is visible.
  *
  * The API key is XOR+base64 obfuscated below (not a plaintext string). This is
  * DETERRENCE — it stops automated secret-scanners and casual "view source"
@@ -19,7 +19,7 @@
   const CFG = window.LASTFM || {};
   const API = "https://ws.audioscrobbler.com/2.0/";
   const PLACEHOLDER = "2a96cbd8b46e442fc41c2b86b821562f"; // Last.fm "no image" star
-  const RECENT_POLL_MS = 30000;
+  const REFRESH_MS = 30000;
 
   // Fetch the size that matches the display slot instead of always the biggest —
   // a 44px thumbnail should not download a 300px image. (Last.fm sizes:
@@ -152,12 +152,14 @@
     );
   }
 
-  async function loadRecent() {
+  // `bg` = background auto-refresh: skip skeletons and keep stale data on error
+  // (don't flash a placeholder/"couldn't load" over already-good content).
+  async function loadRecent(bg) {
     try {
       const data = await api("user.getRecentTracks", { limit: "8" });
       const tracks = asArray(data.recenttracks && data.recenttracks.track);
       if (!tracks.length) {
-        set("lf-now", errMsg("now playing"));
+        if (!bg) set("lf-now", errMsg("now playing"));
         return;
       }
       const first = tracks[0];
@@ -167,12 +169,14 @@
       renderRecent(tracks.slice(1, 7));
     } catch (e) {
       console.error(e);
-      set("lf-now", errMsg("now playing"));
-      set("lf-recent", errMsg("recent tracks"));
+      if (!bg) {
+        set("lf-now", errMsg("now playing"));
+        set("lf-recent", errMsg("recent tracks"));
+      }
     }
   }
 
-  async function loadTotals() {
+  async function loadTotals(bg) {
     try {
       const u = (await api("user.getInfo", {})).user;
       set(
@@ -191,18 +195,20 @@
       );
     } catch (e) {
       console.error(e);
-      set("lf-totals", errMsg("totals"));
+      if (!bg) set("lf-totals", errMsg("totals"));
     }
   }
 
-  async function loadTops(period) {
-    set("lf-albums", skel(8));
-    set("lf-artists", skel(10));
-    set("lf-tracks", skel(10));
+  async function loadTops(period, count, bg) {
+    if (!bg) {
+      set("lf-albums", skel(count));
+      set("lf-artists", skel(count));
+      set("lf-tracks", skel(count));
+    }
 
     try {
       const albums = asArray(
-        (await api("user.getTopAlbums", { period, limit: "8" })).topalbums.album
+        (await api("user.getTopAlbums", { period, limit: String(count) })).topalbums.album
       );
       set(
         "lf-albums",
@@ -219,12 +225,12 @@
       );
     } catch (e) {
       console.error(e);
-      set("lf-albums", errMsg("top albums"));
+      if (!bg) set("lf-albums", errMsg("top albums"));
     }
 
     try {
       const artists = asArray(
-        (await api("user.getTopArtists", { period, limit: "10" })).topartists.artist
+        (await api("user.getTopArtists", { period, limit: String(count) })).topartists.artist
       );
       set(
         "lf-artists",
@@ -242,12 +248,12 @@
       );
     } catch (e) {
       console.error(e);
-      set("lf-artists", errMsg("top artists"));
+      if (!bg) set("lf-artists", errMsg("top artists"));
     }
 
     try {
       const tracks = asArray(
-        (await api("user.getTopTracks", { period, limit: "10" })).toptracks.track
+        (await api("user.getTopTracks", { period, limit: String(count) })).toptracks.track
       );
       set(
         "lf-tracks",
@@ -266,21 +272,33 @@
       );
     } catch (e) {
       console.error(e);
-      set("lf-tracks", errMsg("top tracks"));
+      if (!bg) set("lf-tracks", errMsg("top tracks"));
     }
   }
 
-  /* --- period toggle ------------------------------------------------------ */
-  function initToggle() {
-    const bar = $("lf-period");
+  /* --- state + period toggle ---------------------------------------------- */
+  let currentPeriod = "1month"; // must match the .active period button
+  let currentCount = 10; // must match the .active count button
+
+  // Generic pill-toggle: highlight the clicked button, then run onPick(value).
+  function initToggle(id, attr, onPick) {
+    const bar = $(id);
     if (!bar) return;
     bar.addEventListener("click", (e) => {
-      const btn = e.target.closest("button[data-period]");
+      const btn = e.target.closest(`button[data-${attr}]`);
       if (!btn) return;
       bar.querySelectorAll("button").forEach((b) => b.classList.remove("active"));
       btn.classList.add("active");
-      loadTops(btn.dataset.period);
+      onPick(btn.dataset[attr]); // manual change → loadTops shows skeletons for feedback
     });
+  }
+
+  // Refresh whichever sections exist on this page. bg=true for silent auto-refresh.
+  function refresh(bg) {
+    if ($("lf-totals")) loadTotals(bg);
+    if ($("lf-albums") || $("lf-artists") || $("lf-tracks"))
+      loadTops(currentPeriod, currentCount, bg);
+    if ($("lf-now") || $("lf-recent")) loadRecent(bg);
   }
 
   /* --- boot --------------------------------------------------------------- */
@@ -292,20 +310,29 @@
       return;
     }
 
-    initToggle();
+    initToggle("lf-period", "period", (v) => {
+      currentPeriod = v;
+      loadTops(currentPeriod, currentCount, false);
+    });
+    initToggle("lf-count", "count", (v) => {
+      currentCount = parseInt(v, 10) || 10;
+      loadTops(currentPeriod, currentCount, false);
+    });
 
-    if ($("lf-totals")) {
-      set("lf-totals", skel(4));
-      loadTotals();
-    }
-    if ($("lf-albums") || $("lf-artists") || $("lf-tracks")) {
-      loadTops("1month"); // default period — matches the .active button in the page
-    }
-    if ($("lf-now") || $("lf-recent")) {
-      set("lf-recent", skel(6));
-      loadRecent();
-      setInterval(loadRecent, RECENT_POLL_MS);
-    }
+    // initial skeletons for the always-present sections (top lists set their own)
+    set("lf-totals", skel(4));
+    set("lf-recent", skel(6));
+
+    refresh(false); // first load — show skeletons, surface errors
+
+    // Auto-refresh every 30s, but only while the tab is actually visible, and
+    // refresh immediately when the user returns to the tab.
+    setInterval(() => {
+      if (!document.hidden) refresh(true);
+    }, REFRESH_MS);
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) refresh(true);
+    });
   }
 
   if (document.readyState === "loading") {
