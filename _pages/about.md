@@ -55,7 +55,7 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 <div class="home-now-wrap">
   <div class="home-now-label"> headphone lens: </div>
   <div class="lf-now" id="lf-now"></div>
-  <div class="home-now-more">apologize for explicit images that are album covers | <a href="{{ '/music/' | relative_url }}">→ more music stats </a></div>
+  <div class="home-now-more">apologize for explicit images that are album covers <a href="{{ '/music/' | relative_url }}">→ more music stats here</a></div>
 </div>
 
 <script>

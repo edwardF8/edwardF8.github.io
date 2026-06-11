@@ -33,14 +33,15 @@ So yeah I was lwk excited to create my own when I became a student here. Its sor
 
 ### Sophomore Fall (2026)
  **Courses being taken:**
-  - 15-210 **Parallel and Sequential Data Structures and Algorithms**
- - 15-213 **Intro to Computer Systems**
+ - 15-210 **Parallel and Sequential Data Structures and Algorithms**
  - 15-259 **Probability and Computing**
+ - 07-300 **Research and Innovation in Computer Science**
+ - 17-222 **Introduction to Societal Computing**
  - 85-170 **Foundations of Brain and Behavior**
 
  **Activities**:
 
- **Overall Semester Review**:
+ **Overall Semester Review**: 
 
 ### Summer (2026)
  **Courses being taken:**
