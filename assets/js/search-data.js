@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-are-we-cooked-reflections-from-2026-maia-hssit-workshop",
+            },{id: "post-a-morning-predicament",
+        
+          title: "A Morning Predicament",
+        
+        description: "I usually hate walking into buildings in the morning.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/amorningpredicament/";
+          
+        },
+      },{id: "post-are-we-cooked-reflections-from-2026-maia-hssit-workshop",
         
           title: "Are we cooked? | Reflections from 2026 MAIA-HSSIT Workshop.",
         
