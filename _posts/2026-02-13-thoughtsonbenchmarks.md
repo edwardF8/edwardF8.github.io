@@ -8,6 +8,9 @@ categories:
 toc:
   sidebar: left
 ---
+6/21/2026 → Hey, in the past 4 months, my views and overall takes have changed alot. Idk i am generally a fan of just writing in the momment, and then if what i say is wrong (on a level that wasnt clear to me before) or if my views change, it is what it is. but yah, a lot of these takes I dont agree with so much now, willl make follow up
+
+
 Anthropic, the king of putting "safety at the frontier", just dropped their newest and most powerful model to date. Yet with it comes questions about its true safety and alignment. The recent news motivated me to write some thoughts on "benchmarks" and the current state of safety from my POV. Many are using benchmarks to justify scaling, leading to complacency that harms the AI safety community as a whole.
 
 > Disclaimers
