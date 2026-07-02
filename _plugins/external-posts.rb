@@ -2,6 +2,7 @@ require 'feedjira'
 require 'httparty'
 require 'jekyll'
 require 'nokogiri'
+require 'set'
 require 'time'
 
 module ExternalPosts
