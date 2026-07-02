@@ -10,22 +10,34 @@ module ExternalPosts
     safe true
     priority :high
 
+    # A browser-like UA reduces the chance that hosts (e.g. Substack) serve a
+    # bot-block/HTML challenge page to CI runners instead of the real feed.
+    USER_AGENT = 'Mozilla/5.0 (compatible; al-folio external-posts; +https://github.com/alshedivat/al-folio)'.freeze
+
     def generate(site)
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
           puts "Fetching external posts from #{src['name']}:"
-          if src['rss_url']
-            fetch_from_rss(site, src)
-          elsif src['posts']
-            fetch_from_urls(site, src)
+          begin
+            if src['rss_url']
+              fetch_from_rss(site, src)
+            elsif src['posts']
+              fetch_from_urls(site, src)
+            end
+          rescue => e
+            # Never let one unreachable/malformed source kill the whole build.
+            Jekyll.logger.warn "ExternalPosts:", "Skipping #{src['name']} (#{e.class}: #{e.message})"
           end
         end
       end
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
+      xml = HTTParty.get(src['rss_url'], headers: { 'User-Agent' => USER_AGENT }, timeout: 20).body
+      if xml.nil? || xml.strip.empty?
+        Jekyll.logger.warn "ExternalPosts:", "Empty response from #{src['name']} (#{src['rss_url']}); skipping."
+        return
+      end
       feed = Feedjira.parse(xml)
       process_entries(site, src, feed.entries)
     end
