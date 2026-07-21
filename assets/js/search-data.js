@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-morning-predicament",
+            },{id: "post-the-responsibility-of-interpretation-a-forced-identity-crisis-and-why-its-quot-free-palestine-by-any-means-necessary-quot",
+        
+          title: "The Responsibility of Interpretation, a Forced Identity Crisis, and Why its &quot;Free Palestine...",
+        
+        description: "CMUs recent fence controversies sparked up questions about fairly interpreting messages, my lifelong identity criss, and understanding why its &quot;free Palestine by any means necessary&quot;",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-responsibility-of-interpretation/";
+          
+        },
+      },{id: "post-a-morning-predicament",
         
           title: "A Morning Predicament",
         
@@ -160,6 +171,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/edward-friedman-10604426a", "_blank");
+        },
+      },{
+        id: 'social-substack_url',
+        title: 'Substack_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
         id: 'social-scholar',
