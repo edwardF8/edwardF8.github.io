@@ -129,11 +129,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: Substack
-    rss_url: https://edwardfriedman3.substack.com/feed
+# RETIRED 2026-07-21: the al-folio external-posts plugin only creates link-out
+# stubs (redirect to Substack), never renders content, has no dedup, and is
+# blocked by Substack in CI anyway. Substack posts are now synced into native
+# _posts/ via `python3 claude/sync_substack.py` (see notes/2026-07-21-*).
+# external_sources:
+#   - name: Substack
+#     rss_url: https://edwardfriedman3.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -179,6 +181,7 @@ kramdown:
 include: ["_pages", "_scripts","_posts"]
 exclude:
   - notes/ # private local design notes — gitignored; also kept off local builds
+  - claude/ # local tooling (substack sync); tracked in git but never published
   - _news/long_ann_temp.md
   - _news/short_ann_temp.md
   - _pages/books.md
