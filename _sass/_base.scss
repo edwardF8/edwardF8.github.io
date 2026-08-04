@@ -334,6 +334,17 @@ ul.task-list input[type="checkbox"] {
         }
       }
 
+      // Inline glyph SVGs (e.g. Substack) sit alongside Font Awesome icons and
+      // must match them: same optical size, same neutral color, same hover.
+      svg.social-icon-svg {
+        width: 0.8em;
+        height: 0.8em;
+        margin-bottom: 0;
+        vertical-align: -0.06em;
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
@@ -341,6 +352,10 @@ ul.task-list input[type="checkbox"] {
 
       &:hover {
         i::before {
+          color: var(--global-theme-color);
+        }
+
+        svg.social-icon-svg {
           color: var(--global-theme-color);
         }
       }
@@ -426,6 +441,17 @@ ul.task-list input[type="checkbox"] {
         }
       }
 
+      // Inline glyph SVGs (e.g. Substack) sit alongside Font Awesome icons and
+      // must match them: same optical size, same neutral color, same hover.
+      svg.social-icon-svg {
+        width: 0.8em;
+        height: 0.8em;
+        margin-bottom: 0;
+        vertical-align: -0.06em;
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
@@ -435,6 +461,10 @@ ul.task-list input[type="checkbox"] {
         text-decoration: none;
 
         i::before {
+          color: var(--global-theme-color);
+        }
+
+        svg.social-icon-svg {
           color: var(--global-theme-color);
         }
       }
