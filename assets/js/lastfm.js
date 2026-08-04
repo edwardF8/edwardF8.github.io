@@ -152,6 +152,10 @@
   /* --- renderers ---------------------------------------------------------- */
   function renderNow(track, live) {
     const album = track.album && track.album["#text"];
+    // Show how old the last scrobble is. Without it, a scrobbler that stopped
+    // days ago looks identical to one that just played, so the widget reads as
+    // broken rather than idle.
+    const ago = live ? "" : relTime(track.date && track.date.uts);
     set(
       "lf-now",
       `
@@ -160,7 +164,7 @@
         <div class="lf-badge">${
           live
             ? `<span class="lf-eq"><span></span><span></span><span></span></span> Listening now`
-            : "Last played"
+            : `Last played${ago ? " · " + ago : ""}`
         }</div>
         <div class="t">${esc(track.name)}</div>
         <div class="a">${esc(track.artist["#text"])}${album ? " · " + esc(album) : ""}</div>
