@@ -30,9 +30,10 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
-  <li>First Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
+  <li>Second Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
   <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, Co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
-  <li>(Incoming) TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
+  <li>TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
+  <li> Placeholder for whatever seems seems the most important rn (which changes alot)  </li>
 </ul>
 
 <style>
@@ -66,12 +67,11 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 ---
 
 ##### Research Interests:
-**Long Term**: Most interested in developing methods to gain a "foundational understanding of AI" and using that insight for AI safety and safety-adjacent topics. I'm also broadly interested in forecasting the future (of AI and society) and strategizing to achieve the most equitable futures.
+**Long Term**: Whatever will make AI go really well so big TBD. I dont even know if i still want to do research. If your reading this, I either forgot to update it or am still going through this crisis. I also am broadly interested in forecasting the future (of AI and society) and strategizing to achieve the most equitable futures.
 
-**Short Term**: Currently exploring Causality and Interpretability (Spec, the intersection of *Causal Representation Learning* and *Mechanistic Interpretability*). 
+**Short Term**: Techincal AI Governance Research, so identifying techincal gaps in policy/frameworks that make AI be much better
 
 ---
 
 ##### Personal Bio:
-Interested in pursing a career in academia as a professor as of now. Outside of academics I like working out, music, and learning ab random things. I think i'll make a music and reading page during a summer maybe!
-
+Used to be interested in pursing a career in academia as a professor, however now with the rate of change I want to focus the most on making AI go well over the next couple years. Outside of academics I like working out, running, music, learning ab random things, and CONVERSATIONS, I LOVE CONVOS
