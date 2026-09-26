@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"ratcliff":
+  - firstname: ["William", "W.", "William D."]
+    url: https://www.nist.gov/people/william-d-ratcliff
+
+"song":
+  - firstname: ["Xiangchen", "X."]
+    url: https://xiangchensong.github.io/

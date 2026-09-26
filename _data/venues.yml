@@ -7,3 +7,22 @@
 
 "Vision":
   color: "#009f36"
+
+"NeurIPS":
+  url: https://neurips.cc/Conferences/2026
+  color: "#5a2d82"
+
+"NeurIPS Workshop":
+  url: https://interpscience.github.io/
+  color: "#7b4fa6"
+
+"APS PRX Intelligence":
+  url: https://journals.aps.org/prxintelligence/
+  color: "#b31b1b"
+
+# Topic tags (used via the `tags` bib field)
+"AI For Science":
+  color: "#0b7a75"
+
+"MechInterp":
+  color: "#c46a00"
