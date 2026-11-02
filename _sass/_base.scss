@@ -1458,3 +1458,82 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/*******************************************************************************
+ * Substack links
+ * Hero pills on the about page and the "originally on substack" line on
+ * cross-posted blog posts. Colors follow the theme variables, so they flip
+ * between the light (purple) and dark (cyan) themes automatically.
+ ******************************************************************************/
+
+.substack-pills {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0.2rem 0 1rem;
+}
+
+.substack-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.38rem 0.95rem;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  color: var(--global-theme-color);
+  font-size: 0.85rem;
+  line-height: 1;
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+
+  svg {
+    width: 0.85em;
+    height: 0.85em;
+    fill: currentColor;
+    flex: none;
+  }
+
+  &:hover {
+    background-color: var(--global-theme-color);
+    color: var(--global-hover-text-color);
+    text-decoration: none;
+  }
+}
+
+.substack-archive-link {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
+.post-origin {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
+  margin: -0.5rem 0 0;
+  padding: 0 0 1rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    color: var(--global-theme-color);
+  }
+
+  svg {
+    width: 0.8em;
+    height: 0.8em;
+    fill: currentColor;
+  }
+}

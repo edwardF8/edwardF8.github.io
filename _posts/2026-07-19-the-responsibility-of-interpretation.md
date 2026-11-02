@@ -2,6 +2,7 @@
 layout: post
 title: "The Responsibility of Interpretation, a Forced Identity Crisis, and Why its \"Free Palestine by Any Means Necessary\""
 date: 2026-07-19
+substack_url: https://edwardfriedman3.substack.com/p/the-responsibility-of-interpretation
 featured: true
 description: "CMUs recent fence controversies sparked up questions about fairly interpreting messages, my lifelong identity criss, and understanding why its \"free Palestine by any means necessary\""
 tags: politics opinion

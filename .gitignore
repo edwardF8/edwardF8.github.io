@@ -16,3 +16,6 @@ notes/
 # Python bytecode from claude/ tooling
 __pycache__/
 *.pyc
+
+# superpowers brainstorming mockups (local only)
+.superpowers/

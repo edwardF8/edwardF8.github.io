@@ -2,6 +2,7 @@
 layout: post
 title: Silent Semi-Killers | Extinction-level impacts of AI that are right under our nose.
 date: 2026-03-01
+substack_url: https://uncertainactions.substack.com/p/silent-semi-killers
 description: Silent Semi-Killers are a group of underrepresented AI catastrophic outcomes that lead to major (but not directly extinction-level) effects on our society and are hiding in plane sight. They are often arise from a need to increase productivity in our society, and target systems that haven't/need to adjust to AI usage. 
 tags: ai-safety 
 categories:

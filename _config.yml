@@ -34,6 +34,17 @@ lastfm:
   username: alifesaver
 
 # -----------------------------------------------------------------------------
+# Substack (new writing goes there first; /blog/ is the cross-posted archive)
+# -----------------------------------------------------------------------------
+substack:
+  personal:
+    name: Edward (eddie) Friedman
+    url: https://edwardfriedman3.substack.com/
+  ai_safety:
+    name: UncertainWritings
+    url: https://uncertainactions.substack.com/
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 

@@ -56,6 +56,18 @@ layout: default
         {% endfor %}
       {% endif %}
     </p>
+    {% if page.substack_url %}
+      {% if page.substack_url contains site.substack.ai_safety.url %}
+        {% assign origin_pub = site.substack.ai_safety %}
+      {% else %}
+        {% assign origin_pub = site.substack.personal %}
+      {% endif %}
+      <p class="post-origin">
+        <a href="{{ page.substack_url }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path></svg>originally on substack ↗</a>
+        <span>&middot;</span>
+        <a href="{{ origin_pub.url }}" target="_blank" rel="noopener" title="{{ origin_pub.name }}">subscribe</a>
+      </p>
+    {% endif %}
   </header>
 
   <article class="post-content">

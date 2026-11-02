@@ -2,6 +2,7 @@
 layout: post
 title: A Morning Predicament
 date: 2026-06-12 5:40:16
+substack_url: https://edwardfriedman3.substack.com/p/amorningpredicament
 featured: true
 description: I usually hate walking into buildings in the morning.
 tags: anxiety, philosophical

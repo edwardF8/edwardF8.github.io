@@ -26,13 +26,20 @@ latest_posts:
 <p class="small-note">
 the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 </p>
+
+<div class="substack-pills">
+  <a class="substack-pill" href="{{ site.substack.personal.url }}" target="_blank" rel="noopener" title="{{ site.substack.personal.name }} on Substack"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path></svg>personal substack</a>
+  <a class="substack-pill" href="{{ site.substack.ai_safety.url }}" target="_blank" rel="noopener" title="{{ site.substack.ai_safety.name }} on Substack"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path></svg>ai safety substack</a>
+  <a class="substack-archive-link" href="{{ '/blog/' | relative_url }}">blog archive &rarr;</a>
+</div>
+
 ---
 
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
   <li>Second Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
   <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, Co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
-  <li>TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
+  <li> Also a TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
   <li> Placeholder for whatever seems seems the most important rn (which changes alot)  </li>
 </ul>
 
@@ -66,12 +73,20 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 ---
 
-##### Research Interests:
-**Long Term**: Whatever will make AI go really well so big TBD. I dont even know if i still want to do research. If your reading this, I either forgot to update it or am still going through this crisis. I also am broadly interested in forecasting the future (of AI and society) and strategizing to achieve the most equitable futures.
+**Short Term Interests**: Whatever makes AI go best for humanity! 
+- Research: Misalignment science in models and monitoring misalignment, technical AI governance research, assisting a slowdown in AI development  
+- AI Safety Field Building: Getting more writers/design/comms folk into AI Safety, working on informing the public about the future of AI and generally increasing the diversity of the field. Also convincing systems, security, and ECE people at CMU to work on Compute verification research, and in general convincing CS/CS-adjacent students to work on AI Safety.
 
-**Short Term**: Techincal AI Governance Research, so identifying techincal gaps in policy/frameworks that make AI be much better
-
----
+**Long Term Beliefs**: The future seems very uncertain, so anything that upholds these values:
+- Achieving the most equitable future is the most important value, as the most suffering and pain is hidden behind the systemic barriers in our society
+- Every human has critical flaws, insecurities, and irrationalities, but these are what make humanity so important and beautiful. Material conditions of humans are what cause 
+  - Most of one's irrationalities stem from material conditions that stretch them too thin, though this might be hard to truly address 
+- The system we live and work in inherently works against these interests, yet I (as a straight white Jewish man) likely receive the least repercussions. Though I still believe in changing the system from within 
+- I find myself happiest when I'm teaching others and working on important problems. 
+- I plan to never work for big tech and never do, though I could see myself working on partner projects or as part of certain fellowship programs. Please hold me accountable to this! 
 
 ##### Personal Bio:
-Used to be interested in pursing a career in academia as a professor, however now with the rate of change I want to focus the most on making AI go well over the next couple years. Outside of academics I like working out, running, music, learning ab random things, and CONVERSATIONS, I LOVE CONVOS
+For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, with the rate of change, the future seems more 
+
+
+Outside of academics I like working out, running, music, learning ab random things, and CONVERSATIONS, I LOVE CONVOS

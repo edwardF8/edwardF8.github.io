@@ -2,6 +2,7 @@
 layout: post
 title: 25-26 Winter Studies Recap, Causality and Causal Representation Learning
 date: 2026-01-11
+substack_url: https://edwardfriedman3.substack.com/p/25-26-winter-studies-recap-causality-and-causal-representation-learning
 description: A primer on causality and causal representation learning(kinda)
 tags: updates, guides
 categories: 

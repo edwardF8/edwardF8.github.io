@@ -2,6 +2,7 @@
 layout: post
 title: Are we cooked? | Reflections from 2026 MAIA-HSSIT Workshop.
 date: 2026-04-02
+substack_url: https://uncertainactions.substack.com/p/reflectionsmaia
 description: . 
 tags: ai-safety 
 categories:
