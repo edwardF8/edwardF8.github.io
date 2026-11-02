@@ -73,20 +73,21 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 ---
 
-**Short Term Interests**: Whatever makes AI go best for humanity! 
-- Research: Misalignment science in models and monitoring misalignment, technical AI governance research, assisting a slowdown in AI development  
-- AI Safety Field Building: Getting more writers/design/comms folk into AI Safety, working on informing the public about the future of AI and generally increasing the diversity of the field. Also convincing systems, security, and ECE people at CMU to work on Compute verification research, and in general convincing CS/CS-adjacent students to work on AI Safety.
+###### **Short Term Interests**: 
+Whatever makes AI go best for humanity! 
+- **Research**: Misalignment science in models and monitoring misalignment, technical AI governance research, assisting a slowdown in AI development  
+- **AI Safety Field Building**: Getting more writers/design/comms folk into AI Safety, working on informing the public about the future of AI and generally increasing the diversity of the field. Also convincing systems, security, and ECE people at CMU to work on Compute verification research, and in general convincing CS/CS-adjacent students to work on AI Safety.
 
-**Long Term Beliefs**: The future seems very uncertain, so anything that upholds these values:
-- Achieving the most equitable future is the most important value, as the most suffering and pain is hidden behind the systemic barriers in our society
+###### **Long Term Beliefs**:
+The future seems very uncertain, so anything that upholds these values:
+- Achieving the most **equitable** future is one of my most important values, I focus on equity as most suffering and pain is _hidden_ behind the systemic barriers in our society
 - Every human has critical flaws, insecurities, and irrationalities, but these are what make humanity so important and beautiful. Material conditions of humans are what cause 
   - Most of one's irrationalities stem from material conditions that stretch them too thin, though this might be hard to truly address 
 - The system we live and work in inherently works against these interests, yet I (as a straight white Jewish man) likely receive the least repercussions. Though I still believe in changing the system from within 
 - I find myself happiest when I'm teaching others and working on important problems. 
 - I plan to never work for big tech and never do, though I could see myself working on partner projects or as part of certain fellowship programs. Please hold me accountable to this! 
 
-##### Personal Bio:
-For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, with the rate of change, the future seems more 
+###### Personal Bio:
+For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, the uncertainty of the future has changed my view on  
 
-
-Outside of academics I like working out, running, music, learning ab random things, and CONVERSATIONS, I LOVE CONVOS
+Outside of academics I like working out, running, music, learning ab random things, and talking (see "The Eddie Problem")
