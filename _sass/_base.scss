@@ -1537,3 +1537,43 @@ figure.cover {
     fill: currentColor;
   }
 }
+
+.substack-archive {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.9rem;
+  max-width: 700px;
+  margin: 1.5rem auto 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+  text-align: left;
+
+  .substack-archive-icon {
+    font-size: 1.4rem;
+    flex: none;
+  }
+
+  .substack-archive-text {
+    flex: 1 1 260px;
+    min-width: 0;
+    font-size: 0.875rem;
+    line-height: 1.4;
+  }
+
+  .substack-archive-label {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.15rem;
+  }
+
+  .substack-archive-btns {
+    margin: 0;
+    flex: none;
+  }
+}

@@ -29,6 +29,18 @@ pagination:
   </div>
   {% endif %}
 
+<div class="substack-archive">
+  <div class="substack-archive-icon">📦</div>
+  <div class="substack-archive-text">
+    <div class="substack-archive-label">archive</div>
+    new posts go up on substack first and get cross-posted here. subscribe there if you want them in your inbox.
+  </div>
+  <div class="substack-pills substack-archive-btns">
+    <a class="substack-pill" href="{{ site.substack.personal.url }}" target="_blank" rel="noopener" title="{{ site.substack.personal.name }} on Substack"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path></svg>personal</a>
+    <a class="substack-pill" href="{{ site.substack.ai_safety.url }}" target="_blank" rel="noopener" title="{{ site.substack.ai_safety.name }} on Substack"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"></path></svg>ai safety</a>
+  </div>
+</div>
+
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
