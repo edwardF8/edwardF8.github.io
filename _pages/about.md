@@ -85,9 +85,9 @@ The future seems very uncertain, so its hard to say what I want to work on / am 
   - Lots of irrationalities stem from material conditions that stretch them too thin, though this might be hard to truly address 
 - Achieving the most **equitable** future is one of my most important values, I focus on equity as most suffering and pain is _hidden_ behind the systemic barriers in our society
 - The system we live and work in inherently works against these interests, yet I (as a straight white Jewish man) likely receive the least repercussions; acknowledging this means understanding that I might be more inclined for passive means of change / satisfaction with the status quo. Though I still believe in changing the system from within 
-- I plan to **never work for big tech**, though I could see myself working on partner projects or as part of certain fellowship programs. If this situation occurs, I hope to write about in-depth and get feedback on my choices. **Please hold me accountable to this!**
+- I plan to **never work for big tech**, though I could see myself working on partner projects or as part of certain fellowship programs. If this situation occurs, I hope to write about it in-depth and get feedback on my choices. **Please hold me accountable to this!**
 
 ###### Personal Bio:
-For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, the uncertainty of the future has changed my view on  
+For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, the uncertainty of the future has changed my view on what exactly I can do / want to do... 
 
 Outside of "work", I like working out, running, music, learning ab random things, watching slop, and talking ("The Eddie Problem"(which i will write about soon ))
