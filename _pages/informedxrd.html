@@ -255,13 +255,16 @@ permalink: /informedxrd/
 
     footer { margin-top: 3.5rem; color: var(--muted); font-size: 0.82rem; text-align: center; }
     .disclaimer {
-      max-width: 36rem;
-      margin: 0 auto 1.2rem;
-      padding: 0.75rem 1rem;
+      max-width: 40rem;
+      margin: 0 auto 2.2rem;
+      padding: 0.7rem 1rem;
       border: 1px solid var(--rule);
       border-radius: 10px;
       background: var(--surface);
+      color: var(--muted);
+      font-size: 0.82rem;
       line-height: 1.5;
+      text-align: center;
     }
     .disclaimer strong { color: var(--text); font-weight: 600; }
 
@@ -284,6 +287,8 @@ permalink: /informedxrd/
   </a>
 
   <main>
+    <p class="disclaimer"><strong>AI usage disclaimer:</strong> AI was used to create and write most of this website. While much was pushed from our paper, we plan to still rewrite and make more concise in the future.</p>
+
     <header>
       <span class="venue">NeurIPS 2026 &middot; Evaluations &amp; Datasets Track</span>
       <h1>InformedXRD</h1>
@@ -504,10 +509,7 @@ permalink: /informedxrd/
       </div>
     </section>
 
-    <footer>
-      <p class="disclaimer"><strong>AI usage disclaimer:</strong> AI was used in writing this website and creating its images. We plan to update it with more precise writing in the future.</p>
-      <a href="{{ '/' | relative_url }}">&larr; back to edwardf8.github.io</a>
-    </footer>
+    <footer><a href="{{ '/' | relative_url }}">&larr; back to edwardf8.github.io</a></footer>
   </main>
 </body>
 </html>
