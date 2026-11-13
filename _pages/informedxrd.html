@@ -254,6 +254,16 @@ permalink: /informedxrd/
     .bib button:hover { color: var(--text); }
 
     footer { margin-top: 3.5rem; color: var(--muted); font-size: 0.82rem; text-align: center; }
+    .disclaimer {
+      max-width: 36rem;
+      margin: 0 auto 1.2rem;
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      background: var(--surface);
+      line-height: 1.5;
+    }
+    .disclaimer strong { color: var(--text); font-weight: 600; }
 
     @media (max-width: 860px) {
       .issues { grid-template-columns: repeat(2, 1fr); }
@@ -494,7 +504,10 @@ permalink: /informedxrd/
       </div>
     </section>
 
-    <footer><a href="{{ '/' | relative_url }}">&larr; back to edwardf8.github.io</a></footer>
+    <footer>
+      <p class="disclaimer"><strong>AI usage disclaimer:</strong> AI was used in writing this website and creating its images. We plan to update it with more precise writing in the future.</p>
+      <a href="{{ '/' | relative_url }}">&larr; back to edwardf8.github.io</a>
+    </footer>
   </main>
 </body>
 </html>
