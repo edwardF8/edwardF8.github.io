@@ -11,6 +11,9 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+<div class="paper-pages-label">paper pages:</div>
+{% include paper_pages.liquid %}
+
 {% include bib_search.liquid %}
 
 <div class="publications">

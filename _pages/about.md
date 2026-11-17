@@ -38,9 +38,12 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
   <li>Second Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
+  <li>Research on mechanistic interpretability and AI for science | <a href="#research">See research</a></li>
   <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, Co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
   <li> Also a TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
   <li> Placeholder for whatever seems seems the most important rn (which changes alot)  </li>
+  <li><a href="{{ '/short-term-interests/' | relative_url }}">Short term interests</a>: AI safety field building, misalignment science research, or anything that pushes towards a slowdown in the development of AI.</li>
+  <li>Future is too uncertain, but see my <a href="{{ '/long-term-beliefs/' | relative_url }}">long term beliefs/interests + personal bio</a></li>
 </ul>
 
 <style>
@@ -70,24 +73,3 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
   window.LASTFM = { user: "{{ site.lastfm.username }}" };
 </script>
 <script src="{{ '/assets/js/lastfm.js' | relative_url }}"></script>
-
----
-
-###### **Short Term Interests**: 
-Whatever makes AI go best for humanity! 
-- **Research**: Misalignment science in models and monitoring misalignment, technical AI governance research, assisting a slowdown in AI development  
-- **AI Safety Field Building**: Getting more writers/design/comms folk into AI Safety, working on informing the public about the future of AI and generally increasing the diversity of the field. Also convincing systems, security, and ECE people at CMU to work on Compute verification research, and in general convincing CS/CS-adjacent students to work on AI Safety.
-
-###### **Long Term Beliefs**:
-The future seems very uncertain, so its hard to say what I want to work on / am interested in. Broadly, these are my values/beliefs/motivations
-- I find myself happiest when I'm teaching others and learning about nuanced problems. 
-- Every human has critical flaws, insecurities, and irrationalities, but these are what make humanity so beautiful. 
-  - Lots of irrationalities stem from material conditions that stretch them too thin, though this might be hard to truly address 
-- Achieving the most **equitable** future is one of my most important values, I focus on equity as most suffering and pain is _hidden_ behind the systemic barriers in our society
-- The system we live and work in inherently works against these interests, yet I (as a straight white Jewish man) likely receive the least repercussions; acknowledging this means understanding that I might be more inclined for passive means of change / satisfaction with the status quo. Though I still believe in changing the system from within 
-- I plan to **never work for big tech**, though I could see myself working on partner projects or as part of certain fellowship programs. If this situation occurs, I hope to write about it in-depth and get feedback on my choices. **Please hold me accountable to this!**
-
-###### Personal Bio:
-For a long time, I dreamt about going into academia, doing independent and impactful research while having the intellectual freedom to speak on important issues (Noam Chomsky type). However, the uncertainty of the future has changed my view on what exactly I can do / want to do... 
-
-Outside of "work", I like working out, running, music, learning ab random things, watching slop, and talking ("The Eddie Problem"(which i will write about soon ))
