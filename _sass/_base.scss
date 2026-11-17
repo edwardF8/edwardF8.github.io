@@ -1503,6 +1503,38 @@ figure.cover {
   }
 }
 
+/* "back to main page" pill above the content on every page except home
+   (_layouts/default.liquid). Matches the back button on /informedxrd/. */
+.back-home {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0.2rem;
+  padding: 0.32rem 0.85rem 0.32rem 0.6rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color-light);
+  font-size: 0.82rem;
+  line-height: 1;
+  text-decoration: none;
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    flex: none;
+  }
+
+  &:hover {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
 /* Cards linking to dedicated paper pages (home page, /publications/). */
 .paper-pages-label {
   font-size: 0.72rem;
