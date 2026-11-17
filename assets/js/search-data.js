@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/long-term-beliefs/";
               },
-            },{id: "post-the-responsibility-of-interpretation-a-forced-identity-crisis-and-why-its-quot-free-palestine-by-any-means-necessary-quot",
+            },{id: "post-reflections-on-the-3-billion-dollar-donation",
+        
+          title: "Reflections on the 3 Billion Dollar Donation",
+        
+        description: "My op-ed in The Tartan, CMU&#39;s student newspaper, on Ken Griffin&#39;s $3 billion donation to Carnegie Mellon.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reflections-on-the-3-billion-dollar-donation/";
+          
+        },
+      },{id: "post-the-responsibility-of-interpretation-a-forced-identity-crisis-and-why-its-quot-free-palestine-by-any-means-necessary-quot",
         
           title: "The Responsibility of Interpretation, a Forced Identity Crisis, and Why its &quot;Free Palestine...",
         
@@ -164,6 +175,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-a-new-preprint-out-on-applying-ai-to-predicting-material-crystal-symmetry",
           title: 'I have a new preprint out on applying AI to predicting material crystal...',
+          description: "",
+          section: "News",},{id: "news-read-my-new-op-ed-in-the-tartan-cmu-s-student-newspaper-on-the-recent-ken-griffin-donation",
+          title: 'Read my new op-ed in The Tartan (CMU’s student newspaper) on the recent...',
+          description: "",
+          section: "News",},{id: "news-will-be-presenting-two-first-author-papers-at-neurips-2026-in-sydney-see-my-interp-work-and-ai-for-science-work",
+          title: 'Will be presenting two first-author papers at NeurIPS 2026 in Sydney! See my...',
           description: "",
           section: "News",},{
         id: 'social-email',
