@@ -68,6 +68,11 @@ layout: default
         <a href="{{ origin_pub.url }}" target="_blank" rel="noopener" title="{{ origin_pub.name }}">subscribe</a>
       </p>
     {% endif %}
+    {% if page.external_url %}
+      <p class="post-origin">
+        <a href="{{ page.external_url }}" target="_blank" rel="noopener">originally in {{ page.external_name | default: 'another publication' }} ↗</a>
+      </p>
+    {% endif %}
   </header>
 
   <article class="post-content">
