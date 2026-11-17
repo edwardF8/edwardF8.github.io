@@ -51,6 +51,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
+            },{id: "dropdown-short-term-interests",
+              title: "short term interests",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/short-term-interests/";
+              },
+            },{id: "dropdown-long-term-beliefs",
+              title: "long term beliefs",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/long-term-beliefs/";
+              },
             },{id: "post-the-responsibility-of-interpretation-a-forced-identity-crisis-and-why-its-quot-free-palestine-by-any-means-necessary-quot",
         
           title: "The Responsibility of Interpretation, a Forced Identity Crisis, and Why its &quot;Free Palestine...",
