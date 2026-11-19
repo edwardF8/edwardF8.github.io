@@ -1,0 +1,352 @@
+---
+layout: none
+permalink: /informedxrd/slides/
+---
+{% assign slides = '/assets/img/informedxrd/slides/' | relative_url %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>InformedXRD Slides</title>
+  <meta name="description" content="Slides from the InformedXRD talk at NeurIPS 2026 (Evaluations & Datasets Track).">
+  <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f4fa;
+      --surface: #fefdff;
+      --text: #1f1235;
+      --muted: #655d75;
+      --rule: #e5dfef;
+      --accent: #5b2d90;
+      --btn-bg: #1f1235;
+      --btn-text: #fefdff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #15111c;
+        --surface: #1f1a29;
+        --text: #ece8f3;
+        --muted: #a49db1;
+        --rule: #2e2839;
+        --accent: #b99ae8;
+        --btn-bg: #ece8f3;
+        --btn-text: #15111c;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.6 "Inter", system-ui, -apple-system, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    button { font: inherit; }
+
+    .back {
+      position: fixed;
+      top: 18px;
+      left: 22px;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.35rem 0.8rem 0.35rem 0.6rem;
+      border: 1px solid var(--rule);
+      border-radius: 999px;
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 0.85rem;
+      z-index: 10;
+    }
+    .back:hover { color: var(--text); border-color: var(--muted); text-decoration: none; }
+    .back svg { width: 1em; height: 1em; }
+
+    main { max-width: 1120px; margin: 0 auto; padding: 84px 20px 64px; }
+
+    .disclaimer {
+      max-width: 40rem;
+      margin: 0 auto 1.8rem;
+      padding: 0.7rem 1rem;
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.5;
+      text-align: center;
+    }
+    .disclaimer strong { color: var(--text); font-weight: 600; }
+
+    header { margin-bottom: 1.2rem; text-align: center; }
+    .venue {
+      color: var(--accent);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0.4rem 0 0.2rem;
+      font-family: "Source Serif 4", Georgia, serif;
+      font-weight: 600;
+      font-size: clamp(1.8rem, 4.5vw, 2.5rem);
+      line-height: 1.1;
+    }
+    .hint { color: var(--muted); font-size: 0.86rem; }
+
+    /* viewer */
+    .stage {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--rule);
+      border-radius: 14px;
+      background: #fff;
+      aspect-ratio: 16 / 9;
+      box-shadow: 0 10px 30px rgba(31, 18, 53, 0.08);
+      user-select: none;
+    }
+    .stage img { display: block; width: 100%; height: 100%; object-fit: contain; }
+    .zone {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 50%;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+    }
+    .zone.prev { left: 0; cursor: w-resize; }
+    .zone.next { right: 0; cursor: e-resize; }
+    .stage:fullscreen { border: 0; border-radius: 0; background: #000; }
+    .stage:-webkit-full-screen { border: 0; border-radius: 0; background: #000; width: 100%; height: 100%; }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.8rem;
+      margin-top: 0.9rem;
+    }
+    .nav { display: flex; align-items: center; gap: 0.5rem; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 0.95rem;
+      border: 0;
+      border-radius: 999px;
+      background: var(--btn-bg);
+      color: var(--btn-text);
+      font-size: 0.88rem;
+      font-weight: 500;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .btn:hover { opacity: 0.85; text-decoration: none; }
+    .btn:disabled { opacity: 0.35; cursor: default; }
+    .btn.ghost { border: 1px solid var(--rule); background: var(--surface); color: var(--text); }
+    .btn svg { width: 1em; height: 1em; fill: currentColor; }
+    .count { min-width: 4.5rem; color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; text-align: center; }
+    .slide-title { margin: 0.7rem 0 0; font-weight: 600; }
+
+    .progress { height: 3px; margin-top: 0.8rem; border-radius: 3px; background: var(--rule); overflow: hidden; }
+    .progress span { display: block; height: 100%; background: var(--accent); transition: width 0.2s ease; }
+
+    /* thumbnails */
+    .thumbs {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 10px;
+      margin-top: 2rem;
+    }
+    .thumb {
+      position: relative;
+      padding: 0;
+      overflow: hidden;
+      border: 2px solid transparent;
+      border-radius: 8px;
+      background: #fff;
+      aspect-ratio: 16 / 9;
+      cursor: pointer;
+    }
+    .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+    .thumb span {
+      position: absolute;
+      left: 4px;
+      bottom: 4px;
+      padding: 0 5px;
+      border-radius: 4px;
+      background: rgba(31, 18, 53, 0.75);
+      color: #fff;
+      font-size: 0.7rem;
+      line-height: 1.5;
+    }
+    .thumb[aria-current="true"] { border-color: var(--accent); }
+    .thumb:hover { border-color: var(--muted); }
+
+    footer { margin-top: 3rem; color: var(--muted); font-size: 0.82rem; text-align: center; }
+
+    @media (max-width: 760px) {
+      .thumbs { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 600px) {
+      .back { position: absolute; top: 14px; left: 16px; }
+      main { padding: 70px 16px 48px; }
+      .controls { justify-content: center; }
+      .stage { border-radius: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <a class="back" href="{{ '/informedxrd/' | relative_url }}">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+    InformedXRD
+  </a>
+
+  <main>
+    <p class="disclaimer"><strong>AI usage disclaimer:</strong> AI was used to create and write most of this website. While much was pushed from our paper, we plan to still rewrite and make more concise in the future.</p>
+
+    <header>
+      <div class="venue">NeurIPS 2026 &middot; Evaluations &amp; Datasets Track</div>
+      <h1>InformedXRD: the talk</h1>
+      <div class="hint">Click the slide or use the &larr; &rarr; keys. Press F for full screen.</div>
+    </header>
+
+    <div class="stage" id="stage">
+      <img id="slide" src="{{ slides }}slide-01.webp" width="1920" height="1080" alt="">
+      <button class="zone prev" id="zprev" aria-label="Previous slide"></button>
+      <button class="zone next" id="znext" aria-label="Next slide"></button>
+    </div>
+    <div class="progress"><span id="bar"></span></div>
+
+    <div class="controls">
+      <div class="nav">
+        <button class="btn" id="prev" aria-label="Previous slide"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.4 6.6 14 5.2 7.2 12l6.8 6.8 1.4-1.4L10 12z"/></svg>Prev</button>
+        <span class="count" id="count" aria-live="polite">1 / 30</span>
+        <button class="btn" id="next" aria-label="Next slide">Next<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.6 17.4 10 18.8 16.8 12 10 5.2 8.6 6.6 14 12z"/></svg></button>
+      </div>
+      <div class="nav">
+        <button class="btn ghost" id="fs"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6v2H6v4H4V4Zm10 0h6v6h-2V6h-4V4ZM4 14h2v4h4v2H4v-6Zm14 0h2v6h-6v-2h4v-4Z"/></svg>Full screen</button>
+        <a class="btn ghost" href="{{ '/assets/pdf/informedxrd/InformedXRD_NeurIPS2026_talk_slides.pdf' | relative_url }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 4h2v9.2l3.3-3.3 1.4 1.4L12 17l-5.7-5.7 1.4-1.4 3.3 3.3V4ZM5 18h14v2H5z"/></svg>PDF</a>
+      </div>
+    </div>
+    <p class="slide-title" id="title"></p>
+
+    <div class="thumbs" id="thumbs"></div>
+
+    <footer><a href="{{ '/informedxrd/' | relative_url }}">&larr; back to the InformedXRD page</a></footer>
+  </main>
+
+  <script>
+    (function () {
+      var base = "{{ slides }}";
+      var titles = [
+        "InformedXRD: Reproducible benchmarks and physics-informed evaluation for powder diffraction symmetry classification",
+        "Powder X-Ray Diffraction (PXRD) encodes information about a crystal structure into a pattern",
+        "Crystals are sorted by symmetry into 230 space groups",
+        "ML-4-PXRD: Training models to learn crystal structure symmetry from pattern",
+        "Why it is hard: PXRD squeezes 3D information into one signal",
+        "Reported accuracy is high on simulated data and drops on measured scans",
+        "ML-4-PXRD has four main issues when it comes to evaluation",
+        "Three contributions, demonstrated on 11 models",
+        "Contribution 1: grade on what PXRD can actually resolve",
+        "Crystallography Insight: PXRD causes some space groups to have the same missing peaks, collapsing 230 space groups to 99 extinction groups",
+        "Grading (and training) on space group instead of extinction groups punishes a physically correct answer",
+        "Fair target, same predictions: 15.17% → 18.46% Top-1",
+        "Contribution 2: build benchmarks from a recipe anyone can rerun",
+        "A benchmark should be a recipe, not a hand-picked list",
+        "RRUFF: 1,981 scans become two frozen benchmarks",
+        "Same recipe, new archive: 92,552 opXRD patterns yield 98",
+        "Contribution 3: ask how a model is right, and how it is wrong",
+        "Labels are heavily imbalanced: ten groups hold 67% of the training prior",
+        "Two controls: guess by frequency, then shuffle the labels",
+        "Two controls, two answers: a tie, and a small real signal",
+        "A near miss should not cost the same as a wild guess",
+        "Direction matters too: broad guesses are safer than overly specific ones",
+        "The symmetry graph measures how far off a guess is",
+        "Distance, direction and locality separate safe errors from severe ones",
+        "Top-1 and graph distance crown different models",
+        "Top-k cannot separate the top three architectures; their error structure differs",
+        "Rietveld fitting: the classical way to check a pattern against a structure",
+        "Fit quality does not predict difficulty; label mix explains about 45% of the gap",
+        "Takeaways: evaluation design changes what you can conclude",
+        "Thank you"
+      ];
+      var n = titles.length;
+      var img = document.getElementById("slide");
+      var stage = document.getElementById("stage");
+      var thumbs = document.getElementById("thumbs");
+      var i = 0;
+
+      function src(k, thumb) {
+        var num = (k + 1 < 10 ? "0" : "") + (k + 1);
+        return base + "slide-" + num + (thumb ? "-thumb" : "") + ".webp";
+      }
+
+      titles.forEach(function (t, k) {
+        var b = document.createElement("button");
+        b.className = "thumb";
+        b.setAttribute("aria-label", "Slide " + (k + 1) + ": " + t);
+        b.innerHTML = '<img loading="lazy" width="384" height="216" alt="" src="' + src(k, true) + '"><span>' + (k + 1) + "</span>";
+        b.addEventListener("click", function () { go(k); stage.scrollIntoView({ behavior: "smooth", block: "center" }); });
+        thumbs.appendChild(b);
+      });
+
+      function go(k) {
+        i = Math.max(0, Math.min(n - 1, k));
+        img.src = src(i);
+        img.alt = "Slide " + (i + 1) + ": " + titles[i];
+        document.getElementById("count").textContent = (i + 1) + " / " + n;
+        document.getElementById("title").textContent = titles[i];
+        document.getElementById("bar").style.width = ((i + 1) / n * 100) + "%";
+        document.getElementById("prev").disabled = i === 0;
+        document.getElementById("next").disabled = i === n - 1;
+        [].forEach.call(thumbs.children, function (c, k) { c.setAttribute("aria-current", k === i ? "true" : "false"); });
+        if (history.replaceState) history.replaceState(null, "", "#" + (i + 1));
+        [i - 1, i + 1].forEach(function (k) { if (k >= 0 && k < n) (new Image()).src = src(k); });
+      }
+
+      function toggleFullscreen() {
+        var fs = document.fullscreenElement || document.webkitFullscreenElement;
+        if (fs) (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+        else if (stage.requestFullscreen) stage.requestFullscreen();
+        else if (stage.webkitRequestFullscreen) stage.webkitRequestFullscreen();
+      }
+
+      document.getElementById("prev").addEventListener("click", function () { go(i - 1); });
+      document.getElementById("next").addEventListener("click", function () { go(i + 1); });
+      document.getElementById("zprev").addEventListener("click", function () { go(i - 1); });
+      document.getElementById("znext").addEventListener("click", function () { go(i + 1); });
+      document.getElementById("fs").addEventListener("click", toggleFullscreen);
+
+      document.addEventListener("keydown", function (e) {
+        if (e.metaKey || e.ctrlKey || e.altKey) return;
+        if (e.key === "ArrowRight" || e.key === "PageDown" || e.key === " ") { e.preventDefault(); go(i + 1); }
+        else if (e.key === "ArrowLeft" || e.key === "PageUp") { e.preventDefault(); go(i - 1); }
+        else if (e.key === "Home") go(0);
+        else if (e.key === "End") go(n - 1);
+        else if (e.key === "f" || e.key === "F") toggleFullscreen();
+      });
+
+      var x0 = null;
+      stage.addEventListener("touchstart", function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+      stage.addEventListener("touchend", function (e) {
+        if (x0 === null) return;
+        var dx = e.changedTouches[0].clientX - x0;
+        if (Math.abs(dx) > 40) go(dx < 0 ? i + 1 : i - 1);
+        x0 = null;
+      });
+
+      var start = parseInt((location.hash || "").slice(1), 10);
+      go(isNaN(start) ? 0 : start - 1);
+    })();
+  </script>
+</body>
+</html>
