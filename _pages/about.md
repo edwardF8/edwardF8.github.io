@@ -42,6 +42,7 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
   <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, Co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
   <li> Also a TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
   <li> Placeholder for whatever seems seems the most important rn (which changes alot)  </li>
+  <li>A <a href="{{ '/quotes/' | relative_url }}">wall of my favorite quotes/passages</a></li>
   <li><a href="{{ '/short-term-interests/' | relative_url }}">Short term interests</a>: AI safety field building, misalignment science research, or anything that pushes towards a slowdown in the development of AI.</li>
   <li>Future is too uncertain, but see my <a href="{{ '/long-term-beliefs/' | relative_url }}">long term beliefs/interests + personal bio</a></li>
 </ul>
