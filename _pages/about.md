@@ -38,12 +38,16 @@ the way I cope with my insecurities is by studying  🙏 (I just enjoy learning)
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
   <li>Second Year @ CMU SCS | See my <a href="cmucourses">course reviews</a></li>
-  <li> Research: Currently thinking about [placeholder...] | prev worked on mechanistic interpretability and AI for science | <a href="#research">See research</a></li>
-  <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a>, co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
-  <li> Also a TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
-  <li>A <a href="{{ '/quotes/' | relative_url }}">wall of my favorite quotes/passages</a></li>
+  <li>Executive Board Member for <a href="https://cmuaisafety.com/"> Carnegie AI Safety Initiative (CASI)</a> |  Co-running intro technical AI Safety reading groups and working on initiatives to engage the public on AI threats and AI regulation.</li>
   <li><a href="{{ '/short-term-interests/' | relative_url }}">Short term interests</a>: AI safety field building, misalignment science research, or anything that pushes towards a slowdown in the development of AI.</li>
   <li>Future is too uncertain, but see my <a href="{{ '/long-term-beliefs/' | relative_url }}">long term beliefs/interests + personal bio</a></li>
+  <li>Previously:
+    <ul style="list-style-type: circle; padding-left: 1.5rem;">
+      <li>Research in mechanistic interpretability (<a href="https://edwardf8.github.io/circuit-diff-web/">Circuit-Diff</a>) and AI for science (<a href="{{ '/informedxrd/' | relative_url }}">InformedXRD</a>) | <a href="#research">See more research here</a></li>
+      <li>TA for <a href="https://s22.cs251.com/index.html"> 15-251 <em>Great Ideas in Theoretical Computer Science</em> </a>,  CMU's main undergraduate introduction to theoretical computer science and "theoretical thinking"</li>
+    </ul>
+  </li>
+  <li>A <a href="{{ '/quotes/' | relative_url }}"> Newly added, and growing, wall of my favorite quotes/passages</a></li>
 </ul>
 
 <style>
