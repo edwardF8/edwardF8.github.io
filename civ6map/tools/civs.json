@@ -1,0 +1,1394 @@
+[
+  {
+    "name": "America",
+    "adjective": "American",
+    "civPage": "American (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Teddy Roosevelt",
+        "persona": "",
+        "page": "Teddy Roosevelt (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Teddy Roosevelt",
+        "persona": "Bull Moose",
+        "page": "Teddy Roosevelt (Civ6)/Bull Moose",
+        "dlc": "Teddy Roosevelt Persona Pack (New Frontier Pass bonus)"
+      },
+      {
+        "name": "Teddy Roosevelt",
+        "persona": "Rough Rider",
+        "page": "Teddy Roosevelt (Civ6)/Rough Rider",
+        "dlc": "Teddy Roosevelt Persona Pack (New Frontier Pass bonus)"
+      },
+      {
+        "name": "Abraham Lincoln",
+        "persona": "",
+        "page": "Abraham Lincoln (Civ6)",
+        "dlc": "Leader Pass – Great Negotiators Pack"
+      }
+    ],
+    "real": "United States of America",
+    "wiki": "United States",
+    "capital": "Washington, D.C.",
+    "place": "Washington, D.C. (National Mall), United States",
+    "lat": 38.8895,
+    "lng": -77.0353,
+    "when": "1776 – present",
+    "history": "The United States began as thirteen British colonies on the Atlantic coast that declared independence in 1776 and won it in the Revolutionary War. Its Constitution of 1787 created a federal republic that expanded westward across the continent through purchase, treaty and war, often at the expense of Native American nations. The Civil War of 1861–1865 preserved the Union and ended slavery, and rapid industrialization followed. After the two World Wars the country emerged as a global superpower, shaping the modern world through its economy, military, science and popular culture, and it remains one of the most influential nations today.",
+    "wonders": [
+      "Statue of Liberty",
+      "Golden Gate Bridge",
+      "Broadway",
+      "Panama Canal",
+      "Amundsen-Scott Research Station"
+    ]
+  },
+  {
+    "name": "Arabia",
+    "adjective": "Arabian",
+    "civPage": "Arabian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Saladin",
+        "persona": "Vizier",
+        "page": "Saladin (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Saladin",
+        "persona": "Sultan",
+        "page": "Saladin (Civ6)/Sultan",
+        "dlc": "Leader Pass – Great Negotiators Pack"
+      }
+    ],
+    "real": "The Arab caliphates (Rashidun, Umayyad, Abbasid) and Saladin's Ayyubid sultanate",
+    "wiki": "Caliphate",
+    "capital": "Mecca",
+    "place": "Mecca, Saudi Arabia (in-game capital; birthplace of Islam)",
+    "lat": 21.4225,
+    "lng": 39.8262,
+    "when": "632 – 1258 CE",
+    "history": "After the death of the Prophet Muhammad in 632, the Arab tribes united under Islam burst out of the Arabian Peninsula and within a century built an empire stretching from Spain to Central Asia. The Rashidun and Umayyad caliphs were followed by the Abbasids, whose capital Baghdad became a great center of learning, translation, mathematics, medicine and astronomy. Political unity later fractured into rival dynasties, and in the twelfth century the Kurdish-born sultan Saladin united Egypt and Syria and recaptured Jerusalem from the Crusaders in 1187. The Mongol sack of Baghdad in 1258 ended the Abbasid golden age, but Arabic language and culture endure across the region.",
+    "wonders": []
+  },
+  {
+    "name": "Australia",
+    "adjective": "Australian",
+    "civPage": "Australian (Civ6)",
+    "dlc": "Australia Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "John Curtin",
+        "persona": "",
+        "page": "John Curtin (Civ6)",
+        "dlc": "Australia Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Commonwealth of Australia",
+    "wiki": "Australia",
+    "capital": "Canberra",
+    "place": "Canberra (Parliament House), Australia",
+    "lat": -35.3081,
+    "lng": 149.1245,
+    "when": "1901 – present",
+    "history": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 50,000 years, forming one of the oldest continuous cultures on Earth. British colonization began with a penal settlement at Sydney Cove in 1788, and free settlers, gold rushes and pastoral expansion followed, with devastating effects on Indigenous communities. In 1901 six colonies federated into the Commonwealth of Australia, and Canberra was later built as a purpose-made capital. During the Second World War Prime Minister John Curtin led the nation and turned to the United States for its defense. Today Australia is a prosperous parliamentary democracy known for its vast outback, coastal cities and unique wildlife.",
+    "wonders": [
+      "Sydney Opera House"
+    ]
+  },
+  {
+    "name": "Aztec",
+    "adjective": "Aztec",
+    "civPage": "Aztec (Civ6)",
+    "dlc": "Aztec Civilization Pack (pre-order bonus, later free; counted as base game)",
+    "leaders": [
+      {
+        "name": "Montezuma",
+        "persona": "",
+        "page": "Montezuma (Civ6)",
+        "dlc": "Aztec Civilization Pack"
+      }
+    ],
+    "real": "Aztec Empire (Triple Alliance of Tenochtitlan, Texcoco and Tlacopan)",
+    "wiki": "Aztec Empire",
+    "capital": "Tenochtitlan",
+    "place": "Templo Mayor, Mexico City (ancient Tenochtitlan), Mexico",
+    "lat": 19.4352,
+    "lng": -99.1314,
+    "when": "1428 – 1521",
+    "history": "The Mexica, a Nahuatl-speaking people, founded Tenochtitlan on an island in Lake Texcoco around 1325. In 1428 they formed a Triple Alliance with Texcoco and Tlacopan and went on to dominate much of central Mexico, collecting tribute from dozens of subject city-states. Tenochtitlan grew into one of the largest cities in the world, with causeways, canals, chinampa farms and the great Templo Mayor at its heart. The arrival of Hernán Cortés in 1519, aided by Indigenous allies and devastating epidemics, led to the fall of the city in 1521. Mexico City was built on its ruins, and Aztec heritage remains central to Mexican identity.",
+    "wonders": [
+      "Huey Teocalli"
+    ]
+  },
+  {
+    "name": "Babylon",
+    "adjective": "Babylonian",
+    "civPage": "Babylonian (Civ6)",
+    "dlc": "New Frontier Pass – Babylon Pack",
+    "leaders": [
+      {
+        "name": "Hammurabi",
+        "persona": "",
+        "page": "Hammurabi (Civ6)",
+        "dlc": "New Frontier Pass – Babylon Pack"
+      }
+    ],
+    "real": "Babylonia (Old Babylonian Empire and Neo-Babylonian Empire)",
+    "wiki": "Babylonia",
+    "capital": "Babylon",
+    "place": "Babylon (near Hillah), Iraq",
+    "lat": 32.5422,
+    "lng": 44.4209,
+    "when": "c. 1894 BCE – 539 BCE",
+    "history": "Babylon was a modest town on the Euphrates until the Amorite king Hammurabi, who reigned in the eighteenth century BCE, conquered his rivals and united southern Mesopotamia. His law code, carved on a basalt stele, is one of the best-known legal texts of the ancient world. Babylonian scholars made lasting advances in mathematics and astronomy, using a base-60 number system that still shapes how we count time. After centuries under Kassite, Assyrian and other rulers, Babylon rose again under Nebuchadnezzar II, who rebuilt the city with the Ishtar Gate and a great ziggurat. Cyrus the Great of Persia captured Babylon in 539 BCE.",
+    "wonders": [
+      "Hanging Gardens",
+      "Etemenanki"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "adjective": "Brazilian",
+    "civPage": "Brazilian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Pedro II",
+        "persona": "",
+        "page": "Pedro II (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "Brazil (Empire of Brazil and the modern Federative Republic)",
+    "wiki": "Brazil",
+    "capital": "Rio de Janeiro",
+    "place": "Rio de Janeiro (imperial capital under Pedro II), Brazil",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "when": "1822 – present",
+    "history": "Portuguese explorers reached Brazil in 1500, and over the following centuries a colony built on sugar, gold and enslaved African labor grew along the coast. When Napoleon invaded Portugal, the royal court fled to Rio de Janeiro in 1808, and in 1822 Prince Pedro declared Brazil an independent empire. His son Pedro II ruled for nearly fifty years, promoting science, education and railways, and slavery was abolished in 1888. A military coup proclaimed the republic in 1889. Today Brazil is the largest country in South America, famed for the Amazon rainforest, Carnival, football and a richly diverse culture.",
+    "wonders": [
+      "Cristo Redentor",
+      "Estádio do Maracanã"
+    ]
+  },
+  {
+    "name": "Byzantium",
+    "adjective": "Byzantine",
+    "civPage": "Byzantine (Civ6)",
+    "dlc": "New Frontier Pass – Byzantium & Gaul Pack",
+    "leaders": [
+      {
+        "name": "Basil II",
+        "persona": "",
+        "page": "Basil II (Civ6)",
+        "dlc": "New Frontier Pass – Byzantium & Gaul Pack"
+      },
+      {
+        "name": "Theodora",
+        "persona": "",
+        "page": "Theodora (Civ6)",
+        "dlc": "Leader Pass – Great Builders Pack"
+      }
+    ],
+    "real": "Byzantine Empire (Eastern Roman Empire)",
+    "wiki": "Byzantine Empire",
+    "capital": "Constantinople",
+    "place": "Hagia Sophia, Istanbul (ancient Constantinople), Turkey",
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "when": "330 – 1453 CE",
+    "history": "In 330 CE Emperor Constantine refounded the Greek town of Byzantium as Constantinople, a new capital for the Roman Empire. After the western provinces fell in the fifth century, the eastern empire carried Roman law and statecraft forward for another thousand years, blending them with Greek culture and Orthodox Christianity. Justinian and Theodora reconquered much of the Mediterranean and built the Hagia Sophia, and Basil II later expanded the empire into the Balkans. Gradually weakened by wars with Arabs, Turks and Crusaders, who sacked the city in 1204, the empire finally fell when the Ottomans captured Constantinople in 1453.",
+    "wonders": [
+      "Hagia Sophia"
+    ]
+  },
+  {
+    "name": "Canada",
+    "adjective": "Canadian",
+    "civPage": "Canadian (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Wilfrid Laurier",
+        "persona": "",
+        "page": "Wilfrid Laurier (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Canada",
+    "wiki": "Canada",
+    "capital": "Ottawa",
+    "place": "Parliament Hill, Ottawa, Canada",
+    "lat": 45.4236,
+    "lng": -75.7009,
+    "when": "1867 – present",
+    "history": "Indigenous peoples have lived across the land now called Canada for thousands of years. French and British colonists arrived from the sixteenth and seventeenth centuries, and Britain gained control of New France after the Seven Years' War. In 1867 Confederation united several British North American colonies into the Dominion of Canada, which soon stretched from the Atlantic to the Pacific and the Arctic. Wilfrid Laurier, its first francophone prime minister, led the country from 1896 to 1911 during a period of growth and western settlement. Canada gained full legislative independence gradually and is today a bilingual, multicultural parliamentary democracy.",
+    "wonders": [
+      "Biosphère"
+    ]
+  },
+  {
+    "name": "China",
+    "adjective": "Chinese",
+    "civPage": "Chinese (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Qin Shi Huang",
+        "persona": "Mandate of Heaven",
+        "page": "Qin Shi Huang (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Qin Shi Huang",
+        "persona": "Unifier",
+        "page": "Qin Shi Huang (Civ6)/Unifier",
+        "dlc": "Leader Pass – Rulers of China Pack"
+      },
+      {
+        "name": "Kublai Khan",
+        "persona": "",
+        "page": "Kublai Khan (Civ6)",
+        "dlc": "New Frontier Pass – Vietnam & Kublai Khan Pack"
+      },
+      {
+        "name": "Yongle",
+        "persona": "",
+        "page": "Yongle (Civ6)",
+        "dlc": "Leader Pass – Rulers of China Pack"
+      },
+      {
+        "name": "Wu Zetian",
+        "persona": "",
+        "page": "Wu Zetian (Civ6)",
+        "dlc": "Leader Pass – Rulers of China Pack"
+      }
+    ],
+    "real": "Imperial China (Qin through Qing dynasties)",
+    "wiki": "History of China",
+    "capital": "Xi'an (Chang'an)",
+    "place": "Xi'an (ancient Chang'an, near the Qin capital Xianyang), China",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "when": "221 BCE – 1912 CE",
+    "history": "Chinese civilization grew along the Yellow and Yangtze rivers, and in 221 BCE the king of Qin conquered the rival Warring States and declared himself the first emperor, standardizing script, weights and coinage. For over two thousand years a succession of dynasties, including the Han, Tang, Song, Yuan, Ming and Qing, ruled a vast state run by a scholarly bureaucracy. China gave the world paper, printing, the compass, gunpowder, porcelain and silk. Its capitals, from Chang'an to Beijing, were among the largest cities on Earth. The imperial system ended with the fall of the Qing in 1912, but its legacy deeply shapes modern China.",
+    "wonders": [
+      "Forbidden City",
+      "Terracotta Army"
+    ]
+  },
+  {
+    "name": "Cree",
+    "adjective": "Cree",
+    "civPage": "Cree (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Poundmaker",
+        "persona": "",
+        "page": "Poundmaker (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "Cree Nation (Plains Cree)",
+    "wiki": "Cree",
+    "capital": "Saskatchewan plains",
+    "place": "Plains Cree country near Cut Knife (Poundmaker Cree Nation), Saskatchewan, Canada",
+    "lat": 52.75,
+    "lng": -109.0,
+    "when": "Pre-contact – present",
+    "history": "The Cree are one of the largest Indigenous peoples of North America, with communities stretching from Quebec to the Rocky Mountains. Some Cree groups moved onto the northern plains, where they became skilled bison hunters and key partners in the fur trade with the Hudson's Bay Company. As the bison disappeared in the late nineteenth century, Plains Cree leaders negotiated treaties with Canada and were pressed onto reserves. Chief Poundmaker sought peace yet was imprisoned after the 1885 North-West Resistance; he was formally exonerated by the Canadian government in 2019. Today Cree nations remain vibrant, and the Cree language is among the most widely spoken Indigenous languages in Canada.",
+    "wonders": []
+  },
+  {
+    "name": "Netherlands",
+    "adjective": "Dutch",
+    "civPage": "Dutch (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Wilhelmina",
+        "persona": "",
+        "page": "Wilhelmina (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "The Netherlands (Dutch Republic and Kingdom of the Netherlands)",
+    "wiki": "Netherlands",
+    "capital": "Amsterdam",
+    "place": "Amsterdam (Dam Square), Netherlands",
+    "lat": 52.3731,
+    "lng": 4.8926,
+    "when": "1581 – present",
+    "history": "The low, marshy lands at the mouth of the Rhine were shaped by centuries of dike building and land reclamation. In 1581 the northern provinces declared independence from Spanish rule, and the Dutch Republic that emerged became a seventeenth-century powerhouse of trade, finance, shipbuilding and art, home to the Dutch East India Company and painters such as Rembrandt. After the Napoleonic era it became a kingdom under the House of Orange-Nassau. Queen Wilhelmina reigned from 1890 to 1948 and rallied her people by radio from exile in London during the Nazi occupation. The Netherlands remains a prosperous constitutional monarchy and a founding member of the European Union.",
+    "wonders": []
+  },
+  {
+    "name": "Egypt",
+    "adjective": "Egyptian",
+    "civPage": "Egyptian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Cleopatra",
+        "persona": "Egyptian",
+        "page": "Cleopatra (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Cleopatra",
+        "persona": "Ptolemaic",
+        "page": "Cleopatra (Civ6)/Ptolemaic",
+        "dlc": "Leader Pass – Rulers of the Sahara Pack"
+      },
+      {
+        "name": "Ramses II",
+        "persona": "",
+        "page": "Ramses II (Civ6)",
+        "dlc": "Leader Pass – Rulers of the Sahara Pack"
+      }
+    ],
+    "real": "Ancient Egypt",
+    "wiki": "Ancient Egypt",
+    "capital": "Thebes",
+    "place": "Luxor (ancient Thebes), Egypt",
+    "lat": 25.6872,
+    "lng": 32.6396,
+    "when": "c. 3100 BCE – 30 BCE",
+    "history": "Around 3100 BCE the kingdoms of Upper and Lower Egypt were united, beginning one of the longest-lived civilizations in history. Sustained by the annual flooding of the Nile, the pharaohs of the Old Kingdom raised the pyramids at Giza, while New Kingdom rulers such as Ramses II built vast temples at Thebes and Abu Simbel and led armies into the Levant. Egyptians developed hieroglyphic writing, monumental stone architecture and sophisticated mathematics and medicine. After Alexander the Great's conquest, the Greek Ptolemaic dynasty ruled from Alexandria. Its last ruler, Cleopatra VII, died in 30 BCE, and Egypt became a province of Rome.",
+    "wonders": [
+      "Pyramids",
+      "Great Library",
+      "Great Lighthouse"
+    ]
+  },
+  {
+    "name": "England",
+    "adjective": "English",
+    "civPage": "English (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Victoria",
+        "persona": "Age of Empire",
+        "page": "Victoria (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Victoria",
+        "persona": "Age of Steam",
+        "page": "Victoria (Civ6)/Age of Steam",
+        "dlc": "Leader Pass – Rulers of England Pack"
+      },
+      {
+        "name": "Eleanor of Aquitaine",
+        "persona": "",
+        "page": "Eleanor of Aquitaine (Civ6)",
+        "dlc": "Gathering Storm"
+      },
+      {
+        "name": "Elizabeth I",
+        "persona": "",
+        "page": "Elizabeth I (Civ6)",
+        "dlc": "Leader Pass – Rulers of England Pack"
+      }
+    ],
+    "real": "Kingdom of England (and its successor, the British Empire)",
+    "wiki": "Kingdom of England",
+    "capital": "London",
+    "place": "London (Westminster), United Kingdom",
+    "lat": 51.5007,
+    "lng": -0.1246,
+    "when": "927 – 1707 (continuing as Great Britain)",
+    "history": "The Kingdom of England emerged in the tenth century when Anglo-Saxon kings united their realms, and the Norman Conquest of 1066 brought a new French-speaking aristocracy. Over the following centuries Parliament and the common law developed, and Elizabeth I's reign saw a flowering of literature and seafaring. England united with Scotland in 1707 to form Great Britain, which led the Industrial Revolution and built the largest empire in history, which expanded greatly under Queen Victoria and by the early twentieth century covered roughly a quarter of the world's land. The empire dissolved in the twentieth century, but the English language, parliamentary government and common law spread worldwide.",
+    "wonders": [
+      "Big Ben",
+      "Oxford University",
+      "Stonehenge"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "adjective": "Ethiopian",
+    "civPage": "Ethiopian (Civ6)",
+    "dlc": "New Frontier Pass – Ethiopia Pack",
+    "leaders": [
+      {
+        "name": "Menelik II",
+        "persona": "",
+        "page": "Menelik II (Civ6)",
+        "dlc": "New Frontier Pass – Ethiopia Pack"
+      }
+    ],
+    "real": "Ethiopian Empire (Abyssinia)",
+    "wiki": "Ethiopian Empire",
+    "capital": "Addis Ababa",
+    "place": "Addis Ababa, Ethiopia (founded under Menelik II)",
+    "lat": 9.03,
+    "lng": 38.74,
+    "when": "c. 1270 – 1974",
+    "history": "The Ethiopian highlands were home to the ancient Kingdom of Aksum, a trading power that adopted Christianity in the fourth century. In 1270 the Solomonic dynasty, which claimed descent from King Solomon and the Queen of Sheba, came to power and ruled for most of the next seven centuries. The empire was famous for rock-hewn churches, illuminated manuscripts and its own Ge'ez script. Emperor Menelik II expanded the realm, founded Addis Ababa, and defeated an Italian invasion at the Battle of Adwa in 1896, keeping Ethiopia independent during the colonial scramble for Africa. The monarchy ended when Emperor Haile Selassie was deposed in 1974.",
+    "wonders": []
+  },
+  {
+    "name": "France",
+    "adjective": "French",
+    "civPage": "French (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Catherine de Medici",
+        "persona": "Black Queen",
+        "page": "Catherine de Medici (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Catherine de Medici",
+        "persona": "Magnificence",
+        "page": "Catherine de Medici (Civ6)/Magnificence",
+        "dlc": "Catherine de Medici Persona Pack (New Frontier Pass bonus)"
+      },
+      {
+        "name": "Eleanor of Aquitaine",
+        "persona": "",
+        "page": "Eleanor of Aquitaine (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "France (Kingdom of France and its successors)",
+    "wiki": "France",
+    "capital": "Paris",
+    "place": "Paris (Île de la Cité), France",
+    "lat": 48.8534,
+    "lng": 2.3488,
+    "when": "987 – present",
+    "history": "France grew from the western part of Charlemagne's Frankish empire, and the Capetian kings who took the throne in 987 slowly built a strong monarchy centered on Paris. Through the Hundred Years' War, the Renaissance and the Wars of Religion, in which Catherine de' Medici played a central role, France became one of Europe's great powers, reaching a peak of royal splendor under Louis XIV at Versailles. The Revolution of 1789 overthrew the monarchy and spread ideals of liberty and equality, and Napoleon carried them across Europe by conquest. France has since been a leading republic, renowned for its art, cuisine, philosophy and fashion.",
+    "wonders": [
+      "Eiffel Tower",
+      "Mont St. Michel"
+    ]
+  },
+  {
+    "name": "Gaul",
+    "adjective": "Gallic",
+    "civPage": "Gallic (Civ6)",
+    "dlc": "New Frontier Pass – Byzantium & Gaul Pack",
+    "leaders": [
+      {
+        "name": "Ambiorix",
+        "persona": "",
+        "page": "Ambiorix (Civ6)",
+        "dlc": "New Frontier Pass – Byzantium & Gaul Pack"
+      }
+    ],
+    "real": "The Celtic Gauls (Iron Age tribes of Gaul)",
+    "wiki": "Gaul",
+    "capital": "Bibracte",
+    "place": "Bibracte oppidum (Mont Beuvray), Burgundy, France",
+    "lat": 46.9236,
+    "lng": 4.0389,
+    "when": "c. 5th century BCE – 50 BCE",
+    "history": "Gaul was the Roman name for the lands of the Celtic peoples roughly covering modern France, Belgium and parts of neighboring countries. Its many tribes lived in fortified hilltop towns called oppida, worked iron and gold with great skill, traded widely and were led by a warrior aristocracy and the druids. Gallic warriors even sacked Rome around 390 BCE. Between 58 and 50 BCE Julius Caesar conquered Gaul; Ambiorix of the Eburones destroyed a Roman legion in 54 BCE, and Vercingetorix led a final great revolt that ended at Alesia in 52 BCE. Gaul then became Roman, and its Gallo-Roman culture laid foundations for France.",
+    "wonders": []
+  },
+  {
+    "name": "Georgia",
+    "adjective": "Georgian",
+    "civPage": "Georgian (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Tamar",
+        "persona": "",
+        "page": "Tamar (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "Kingdom of Georgia",
+    "wiki": "Kingdom of Georgia",
+    "capital": "Tbilisi",
+    "place": "Tbilisi, Georgia",
+    "lat": 41.6938,
+    "lng": 44.8015,
+    "when": "1008 – 1490",
+    "history": "Nestled in the Caucasus between the Black and Caspian seas, Georgia was home to ancient kingdoms such as Colchis and Iberia and became one of the first nations to adopt Christianity, in the fourth century. In 1008 its lands were united into a single kingdom under Bagrat III. Under David IV the Builder and his great-granddaughter Queen Tamar, who reigned from about 1184 to 1213, medieval Georgia reached a golden age of military strength, church building and literature, including the epic poem The Knight in the Panther's Skin. Mongol invasions and the Black Death brought decline, and the kingdom fragmented in 1490.",
+    "wonders": []
+  },
+  {
+    "name": "Germany",
+    "adjective": "German",
+    "civPage": "German (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Frederick Barbarossa",
+        "persona": "",
+        "page": "Frederick Barbarossa (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Ludwig II",
+        "persona": "",
+        "page": "Ludwig II (Civ6)",
+        "dlc": "Leader Pass – Great Builders Pack"
+      }
+    ],
+    "real": "Holy Roman Empire and the German states",
+    "wiki": "Holy Roman Empire",
+    "capital": "Aachen",
+    "place": "Aachen (Charlemagne's capital, coronation city of German kings), Germany",
+    "lat": 50.7753,
+    "lng": 6.0839,
+    "when": "962 – present (Holy Roman Empire until 1806)",
+    "history": "The Holy Roman Empire, founded when Otto I was crowned emperor in 962, united a patchwork of German duchies, bishoprics and free cities under an elected emperor. Frederick Barbarossa, who reigned in the twelfth century, sought to restore imperial power in Germany and Italy and drowned while on the Third Crusade. The empire was the birthplace of the printing press and the Protestant Reformation, but it remained politically fragmented until Napoleon dissolved it in 1806. Germany was unified under Prussian leadership in 1871 and became an industrial giant. After the catastrophes of two World Wars and division, it was reunified in 1990.",
+    "wonders": [
+      "Ruhr Valley"
+    ]
+  },
+  {
+    "name": "Gran Colombia",
+    "adjective": "Gran Colombian",
+    "civPage": "Gran Colombian (Civ6)",
+    "dlc": "New Frontier Pass – Maya & Gran Colombia Pack",
+    "leaders": [
+      {
+        "name": "Simón Bolívar",
+        "persona": "",
+        "page": "Simón Bolívar (Civ6)",
+        "dlc": "New Frontier Pass – Maya & Gran Colombia Pack"
+      }
+    ],
+    "real": "Republic of Colombia (Gran Colombia)",
+    "wiki": "Gran Colombia",
+    "capital": "Bogotá",
+    "place": "Bogotá (Plaza de Bolívar), Colombia",
+    "lat": 4.5981,
+    "lng": -74.076,
+    "when": "1819 – 1831",
+    "history": "Gran Colombia was a short-lived republic in northern South America created during the wars of independence against Spain. Led by Simón Bolívar, revolutionary armies won a decisive victory at Boyacá in 1819, and the Congress of Angostura proclaimed a union of New Granada and Venezuela, later joined by Ecuador and Panama. With Bogotá as its capital and Bolívar as president, the republic helped liberate Peru and Bolivia. However, regional rivalries, debt and disputes over centralized rule soon tore it apart. By 1831, after Bolívar's death, it had split into Venezuela, Ecuador and New Granada, the forerunner of modern Colombia and Panama.",
+    "wonders": []
+  },
+  {
+    "name": "Greece",
+    "adjective": "Greek",
+    "civPage": "Greek (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Pericles",
+        "persona": "",
+        "page": "Pericles (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Gorgo",
+        "persona": "",
+        "page": "Gorgo (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "Ancient Greece (Athens, Sparta and the Greek city-states)",
+    "wiki": "Ancient Greece",
+    "capital": "Athens",
+    "place": "Acropolis of Athens, Greece",
+    "lat": 37.9715,
+    "lng": 23.7257,
+    "when": "c. 800 BCE – 146 BCE",
+    "history": "Ancient Greece was not a single state but a world of fiercely independent city-states scattered across the Aegean and Mediterranean. From around 800 BCE the Greeks adopted an alphabet, founded colonies and held the first Olympic Games. In the fifth century BCE Athens and Sparta led the resistance to the Persian invasions, and under Pericles Athens developed democracy and built the Parthenon. Greek thinkers such as Socrates, Plato and Aristotle shaped philosophy, while Greek drama, history writing, science and art set models for later Western culture. Weakened by internal wars, the city-states fell under Macedonian and then Roman rule by 146 BCE.",
+    "wonders": [
+      "Statue of Zeus",
+      "Oracle",
+      "Colossus",
+      "Temple of Artemis"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "adjective": "Hungarian",
+    "civPage": "Hungarian (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Matthias Corvinus",
+        "persona": "",
+        "page": "Matthias Corvinus (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Kingdom of Hungary",
+    "wiki": "Kingdom of Hungary",
+    "capital": "Buda (Budapest)",
+    "place": "Buda Castle, Budapest, Hungary",
+    "lat": 47.4962,
+    "lng": 19.0396,
+    "when": "1000 – 1946",
+    "history": "The Magyars, a semi-nomadic people from the east, settled in the Carpathian Basin in the late ninth century. In 1000 their prince Stephen was crowned as the first Christian king, founding the Kingdom of Hungary. Under Matthias Corvinus, who reigned from 1458 to 1490, Hungary became a major Central European power with a celebrated Renaissance court and library at Buda. Ottoman victory at Mohács in 1526 split the kingdom, and it later came under Habsburg rule, becoming an equal partner in Austria-Hungary from 1867. After the First World War Hungary lost much of its territory, and the monarchy was formally abolished in 1946.",
+    "wonders": [
+      "Országház"
+    ]
+  },
+  {
+    "name": "Inca",
+    "adjective": "Incan",
+    "civPage": "Incan (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Pachacuti",
+        "persona": "",
+        "page": "Pachacuti (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Inca Empire (Tawantinsuyu)",
+    "wiki": "Inca Empire",
+    "capital": "Cusco",
+    "place": "Cusco, Peru",
+    "lat": -13.5319,
+    "lng": -71.9675,
+    "when": "1438 – 1533",
+    "history": "The Inca began as a small kingdom around Cusco in the Peruvian Andes. From 1438 the ruler Pachacuti and his successors expanded it into Tawantinsuyu, the largest empire in pre-Columbian America, stretching along the Andes from modern Ecuador to Chile. The Inca governed millions of people without a written script, using knotted cords called quipu for records, and linked their realm with a vast road network. They were master builders and farmers, carving terraces into mountainsides and raising estates such as Machu Picchu. Weakened by civil war and smallpox, the empire fell to Francisco Pizarro's conquistadors after 1532.",
+    "wonders": [
+      "Machu Picchu"
+    ]
+  },
+  {
+    "name": "India",
+    "adjective": "Indian",
+    "civPage": "Indian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Gandhi",
+        "persona": "",
+        "page": "Gandhi (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Chandragupta",
+        "persona": "",
+        "page": "Chandragupta (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "India (from the Maurya Empire to the Republic of India)",
+    "wiki": "India",
+    "capital": "Delhi",
+    "place": "Delhi, India (in-game capital)",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "when": "c. 3300 BCE – present",
+    "history": "The Indian subcontinent cradled one of the world's first urban societies in the Indus Valley, and later saw the rise of Hinduism, Buddhism and Jainism. Around 320 BCE Chandragupta Maurya founded the first empire to unite most of the subcontinent; his grandson Ashoka spread Buddhism widely. Later the Gupta, Chola and Mughal states fostered achievements in mathematics, astronomy, literature and architecture, including the Taj Mahal. British rule expanded from the eighteenth century until Mahatma Gandhi and the independence movement, using nonviolent resistance, helped win independence in 1947. Today India is the world's most populous nation and its largest democracy.",
+    "wonders": [
+      "Taj Mahal",
+      "Mahabodhi Temple",
+      "Meenakshi Temple",
+      "Great Bath"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "adjective": "Indonesian",
+    "civPage": "Indonesian (Civ6)",
+    "dlc": "Khmer and Indonesia Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Gitarja",
+        "persona": "",
+        "page": "Gitarja (Civ6)",
+        "dlc": "Khmer and Indonesia Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Majapahit Empire",
+    "wiki": "Majapahit",
+    "capital": "Trowulan",
+    "place": "Trowulan (Majapahit capital), East Java, Indonesia",
+    "lat": -7.5594,
+    "lng": 112.3811,
+    "when": "1293 – c. 1527",
+    "history": "The Indonesian archipelago, astride the sea routes between India and China, hosted powerful maritime kingdoms such as Srivijaya and the temple-building dynasties of Java. In 1293 Raden Wijaya founded Majapahit in eastern Java after repelling a Mongol expedition. Under Queen Tribhuwana Wijayatunggadewi, known as Gitarja, and her son Hayam Wuruk, the chief minister Gajah Mada pursued an ambitious expansion, and Majapahit became the dominant power across much of maritime Southeast Asia. Its capital at Trowulan was a large brick-built city. As Islamic sultanates rose along the coasts, Majapahit declined and collapsed in the early sixteenth century; it remains a symbol of Indonesian unity.",
+    "wonders": []
+  },
+  {
+    "name": "Japan",
+    "adjective": "Japanese",
+    "civPage": "Japanese (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Hojo Tokimune",
+        "persona": "",
+        "page": "Hojo Tokimune (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Tokugawa",
+        "persona": "",
+        "page": "Tokugawa (Civ6)",
+        "dlc": "Leader Pass – Great Commanders Pack"
+      }
+    ],
+    "real": "Japan",
+    "wiki": "Japan",
+    "capital": "Kyoto",
+    "place": "Kyoto (imperial capital 794–1869), Japan",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "when": "c. 250 CE – present",
+    "history": "Japan emerged as a unified state under the Yamato rulers, adopting Buddhism, writing and court institutions from China and Korea. From 794 the imperial court at Kyoto produced a refined culture, while real power shifted to warrior shoguns. The Kamakura shogunate, guided by regent Hojo Tokimune, repelled two Mongol invasions in 1274 and 1281. After a long era of civil war, Tokugawa Ieyasu founded a shogunate in 1603 that kept the country largely closed and at peace for over 250 years. The Meiji Restoration of 1868 launched rapid modernization, and after the Second World War Japan rebuilt itself into a leading economic and technological power.",
+    "wonders": [
+      "Kotoku-in"
+    ]
+  },
+  {
+    "name": "Khmer",
+    "adjective": "Khmer",
+    "civPage": "Khmer (Civ6)",
+    "dlc": "Khmer and Indonesia Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Jayavarman VII",
+        "persona": "",
+        "page": "Jayavarman VII (Civ6)",
+        "dlc": "Khmer and Indonesia Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Khmer Empire",
+    "wiki": "Khmer Empire",
+    "capital": "Angkor (Yasodharapura)",
+    "place": "Angkor Thom (Bayon), Siem Reap, Cambodia",
+    "lat": 13.4412,
+    "lng": 103.859,
+    "when": "802 – 1431",
+    "history": "In 802 Jayavarman II proclaimed himself universal monarch, founding the Khmer Empire in what is now Cambodia. Its capital at Angkor grew into one of the largest pre-industrial urban complexes in the world, sustained by rice farming and an extensive network of reservoirs and canals. In the twelfth century Suryavarman II built Angkor Wat, and Jayavarman VII, a devout Buddhist, built the walled city of Angkor Thom with its smiling stone faces, along with hospitals and rest houses across the realm. At its height the empire dominated much of mainland Southeast Asia. Pressure from Ayutthaya and environmental strain led to Angkor's abandonment as capital after 1431.",
+    "wonders": [
+      "Angkor Wat"
+    ]
+  },
+  {
+    "name": "Kongo",
+    "adjective": "Kongolese",
+    "civPage": "Kongolese (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Mvemba a Nzinga",
+        "persona": "",
+        "page": "Mvemba a Nzinga (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Nzinga Mbande",
+        "persona": "",
+        "page": "Nzinga Mbande (Civ6)",
+        "dlc": "Leader Pass – Great Negotiators Pack"
+      }
+    ],
+    "real": "Kingdom of Kongo",
+    "wiki": "Kingdom of Kongo",
+    "capital": "Mbanza Kongo (São Salvador)",
+    "place": "Mbanza Kongo, Angola",
+    "lat": -6.267,
+    "lng": 14.24,
+    "when": "c. 1390 – 1914",
+    "history": "The Kingdom of Kongo was founded around the late fourteenth century in west-central Africa, south of the Congo River, with its capital at Mbanza Kongo. It was a centralized state with provincial governors, a currency of nzimbu shells, and skilled weaving and metalwork. Portuguese navigators arrived in 1483, and King Mvemba a Nzinga, also known as Afonso I, embraced Christianity and literacy while protesting the growing slave trade in letters to Portugal's king. In the seventeenth century Queen Nzinga Mbande of the neighboring Ndongo and Matamba kingdoms resisted the Portuguese for decades. Kongo was weakened by civil wars and became a Portuguese vassal before its absorption into colonial Angola.",
+    "wonders": []
+  },
+  {
+    "name": "Korea",
+    "adjective": "Korean",
+    "civPage": "Korean (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Seondeok",
+        "persona": "",
+        "page": "Seondeok (Civ6)",
+        "dlc": "Rise and Fall"
+      },
+      {
+        "name": "Sejong",
+        "persona": "",
+        "page": "Sejong (Civ6)",
+        "dlc": "Leader Pass – Great Builders Pack"
+      }
+    ],
+    "real": "Korea (Silla and Joseon kingdoms)",
+    "wiki": "Korea",
+    "capital": "Seoul (Hanseong)",
+    "place": "Gyeongbokgung Palace, Seoul (Joseon capital Hanseong), South Korea",
+    "lat": 37.5796,
+    "lng": 126.977,
+    "when": "57 BCE – 1910",
+    "history": "The Korean Peninsula was long divided among the Three Kingdoms of Goguryeo, Baekje and Silla. Silla, where Queen Seondeok reigned from 632 to 647 and built the Cheomseongdae observatory, eventually unified most of the peninsula in the seventh century. The Goryeo dynasty that followed gave Korea its name and produced celebrated celadon pottery and early metal movable type. In 1392 the Joseon dynasty took power and ruled from Hanseong, now Seoul, for over five centuries; King Sejong the Great introduced the Hangul alphabet in the fifteenth century. Joseon's independence ended with Japanese annexation in 1910, and after 1945 the peninsula was divided.",
+    "wonders": []
+  },
+  {
+    "name": "Macedon",
+    "adjective": "Macedonian",
+    "civPage": "Macedonian (Civ6)",
+    "dlc": "Persia and Macedon Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Alexander",
+        "persona": "",
+        "page": "Alexander (Civ6)",
+        "dlc": "Persia and Macedon Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Kingdom of Macedon (Macedonia)",
+    "wiki": "Macedonia (ancient kingdom)",
+    "capital": "Pella",
+    "place": "Pella, Central Macedonia, Greece",
+    "lat": 40.7553,
+    "lng": 22.5242,
+    "when": "c. 808 BCE – 168 BCE",
+    "history": "Macedon was an ancient kingdom on the northern edge of the Greek world, ruled by the Argead dynasty. King Philip II transformed it in the fourth century BCE with a professional army built around the long-speared phalanx, and he brought most of the Greek city-states under his control. His son Alexander the Great, tutored by Aristotle, crossed into Asia in 334 BCE, defeated the Persian Empire and marched as far as India, founding cities such as Alexandria. After his death in 323 BCE his generals divided the empire into rival Hellenistic kingdoms. Macedon itself was defeated by Rome at Pydna in 168 BCE.",
+    "wonders": []
+  },
+  {
+    "name": "Mali",
+    "adjective": "Malian",
+    "civPage": "Malian (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Mansa Musa",
+        "persona": "",
+        "page": "Mansa Musa (Civ6)",
+        "dlc": "Gathering Storm"
+      },
+      {
+        "name": "Sundiata Keita",
+        "persona": "",
+        "page": "Sundiata Keita (Civ6)",
+        "dlc": "Leader Pass – Rulers of the Sahara Pack"
+      }
+    ],
+    "real": "Mali Empire",
+    "wiki": "Mali Empire",
+    "capital": "Niani",
+    "place": "Niani, Guinea (traditional site of the imperial capital; exact location debated)",
+    "lat": 11.3798,
+    "lng": -8.3842,
+    "when": "c. 1235 – 1670",
+    "history": "The Mali Empire was founded around 1235 when Sundiata Keita, a Mandinka prince celebrated in the Epic of Sundiata, defeated the Sosso king at the Battle of Kirina. Controlling the gold fields of the upper Niger and the trans-Saharan trade routes, Mali became one of the richest states in the world. Its most famous ruler, Mansa Musa, made a pilgrimage to Mecca in 1324 with a caravan carrying so much gold that it was remembered for generations. Cities such as Timbuktu and Djenné flourished as centers of trade and Islamic scholarship. From the fifteenth century the empire declined as the Songhai Empire rose and trade routes shifted.",
+    "wonders": [
+      "University of Sankore"
+    ]
+  },
+  {
+    "name": "Māori",
+    "adjective": "Māori",
+    "civPage": "Māori (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Kupe",
+        "persona": "",
+        "page": "Kupe (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Māori people of Aotearoa (New Zealand)",
+    "wiki": "Māori people",
+    "capital": "Hokianga",
+    "place": "Hokianga Harbour, Northland, New Zealand (linked to the Kupe voyaging traditions)",
+    "lat": -35.53,
+    "lng": 173.37,
+    "when": "c. 1300 CE – present",
+    "history": "The Māori are the Indigenous Polynesian people of New Zealand, descended from voyagers who crossed the Pacific in great double-hulled canoes and settled the islands around the thirteenth to fourteenth centuries. Oral traditions credit the navigator Kupe with discovering Aotearoa. Māori society was organized into iwi and hapū, with fortified pā, intricate wood and greenstone carving, tattooing and a rich oral literature. After European contact, the 1840 Treaty of Waitangi was signed between the British Crown and many Māori chiefs, but land confiscations and the New Zealand Wars followed. Today Māori culture and the Māori language, te reo, are central to New Zealand's identity.",
+    "wonders": []
+  },
+  {
+    "name": "Mapuche",
+    "adjective": "Mapuche",
+    "civPage": "Mapuche (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Lautaro",
+        "persona": "",
+        "page": "Lautaro (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "Mapuche people (Araucanía)",
+    "wiki": "Mapuche",
+    "capital": "Araucanía",
+    "place": "Temuco, Araucanía Region, Chile (Mapuche heartland)",
+    "lat": -38.7359,
+    "lng": -72.5904,
+    "when": "Pre-Columbian – present",
+    "history": "The Mapuche are an Indigenous people of south-central Chile and southwestern Argentina. Living in dispersed communities led by local chiefs, they resisted the Inca expansion and then, for more than three centuries, the Spanish Empire. In the 1550s the young leader Lautaro, who had learned Spanish tactics while serving as a groom, led Mapuche forces to victory over the conquistador Pedro de Valdivia at Tucapel. The Arauco War and later treaties kept the lands south of the Biobío River largely independent until the late nineteenth century, when Chile and Argentina occupied them. The Mapuche remain the largest Indigenous group in Chile today.",
+    "wonders": []
+  },
+  {
+    "name": "Maya",
+    "adjective": "Mayan",
+    "civPage": "Mayan (Civ6)",
+    "dlc": "New Frontier Pass – Maya & Gran Colombia Pack",
+    "leaders": [
+      {
+        "name": "Lady Six Sky",
+        "persona": "",
+        "page": "Lady Six Sky (Civ6)",
+        "dlc": "New Frontier Pass – Maya & Gran Colombia Pack"
+      }
+    ],
+    "real": "Maya civilization (Classic Maya city-states)",
+    "wiki": "Maya civilization",
+    "capital": "Mutal (Tikal)",
+    "place": "Tikal (Mutal, the in-game capital), Petén, Guatemala; Lady Six Sky ruled nearby Naranjo",
+    "lat": 17.222,
+    "lng": -89.6237,
+    "when": "c. 2000 BCE – 1697 CE",
+    "history": "The Maya built a civilization of competing city-states across southern Mexico, Guatemala and Belize. During the Classic period, from about 250 to 900 CE, cities such as Tikal, Calakmul, Palenque and Copán raised towering pyramids and palaces, and their rulers recorded dynastic histories in the most sophisticated writing system of the ancient Americas. Maya astronomers and mathematicians developed a concept of zero and complex calendars. Lady Six Sky, a princess of Dos Pilas, ruled the city of Naranjo in the seventh and eighth centuries. Many southern cities were abandoned by about 900, but northern centers such as Chichen Itza flourished, and the last independent kingdom fell to Spain in 1697.",
+    "wonders": [
+      "Chichen Itza"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "adjective": "Mongolian",
+    "civPage": "Mongolian (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Genghis Khan",
+        "persona": "",
+        "page": "Genghis Khan (Civ6)",
+        "dlc": "Rise and Fall"
+      },
+      {
+        "name": "Kublai Khan",
+        "persona": "",
+        "page": "Kublai Khan (Civ6)",
+        "dlc": "New Frontier Pass – Vietnam & Kublai Khan Pack"
+      }
+    ],
+    "real": "Mongol Empire",
+    "wiki": "Mongol Empire",
+    "capital": "Karakorum",
+    "place": "Karakorum (near Kharkhorin), Mongolia",
+    "lat": 47.1972,
+    "lng": 102.8236,
+    "when": "1206 – 1368",
+    "history": "In 1206 the warlord Temüjin united the nomadic tribes of the Mongolian steppe and took the title Genghis Khan. His disciplined horse archers, organized by tens, hundreds and thousands, conquered northern China, Central Asia and Persia, and his successors pushed into Russia, Eastern Europe and the Middle East, creating the largest contiguous land empire in history. The Mongols built a capital at Karakorum and protected trade along the Silk Road, enabling unprecedented contact between East and West. Genghis's grandson Kublai Khan founded the Yuan dynasty in China. The empire split into rival khanates, and the Yuan fell to the Ming in 1368.",
+    "wonders": []
+  },
+  {
+    "name": "Norway",
+    "adjective": "Norwegian",
+    "civPage": "Norwegian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Harald Hardrada",
+        "persona": "Konge",
+        "page": "Harald Hardrada (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Harald Hardrada",
+        "persona": "Varangian",
+        "page": "Harald Hardrada (Civ6)/Varangian",
+        "dlc": "Leader Pass – Rulers of England Pack"
+      }
+    ],
+    "real": "Kingdom of Norway (Viking Age and medieval)",
+    "wiki": "Kingdom of Norway (872–1397)",
+    "capital": "Nidaros (Trondheim)",
+    "place": "Trondheim (medieval Nidaros, the in-game capital), Norway",
+    "lat": 63.4305,
+    "lng": 10.3951,
+    "when": "872 – 1397",
+    "history": "Norway's fjords and coasts were home to the seafaring Norse, whose Viking raiders, traders and settlers reached the British Isles, Iceland, Greenland and even North America from the late eighth century. Harald Fairhair is traditionally credited with first uniting Norway around 872, and Christianity took hold under kings such as Olaf II, whose shrine at Nidaros became a pilgrimage center. Harald Hardrada served in the Varangian Guard of the Byzantine emperors before becoming king in 1046; his death at Stamford Bridge in 1066 is often seen as the end of the Viking Age. Norway later entered the Kalmar Union in 1397 and regained full independence in 1905.",
+    "wonders": []
+  },
+  {
+    "name": "Nubia",
+    "adjective": "Nubian",
+    "civPage": "Nubian (Civ6)",
+    "dlc": "Nubia Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Amanitore",
+        "persona": "",
+        "page": "Amanitore (Civ6)",
+        "dlc": "Nubia Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Kingdom of Kush (Napata and Meroë)",
+    "wiki": "Kingdom of Kush",
+    "capital": "Meroë",
+    "place": "Meroë pyramids, River Nile State, Sudan",
+    "lat": 16.938,
+    "lng": 33.749,
+    "when": "c. 1070 BCE – c. 350 CE",
+    "history": "Nubia, along the Nile south of Egypt, was home to some of Africa's earliest kingdoms, and its archers were so renowned that Egyptians called it Ta-Seti, the Land of the Bow. The Kingdom of Kush rose as Egyptian power waned, and in the eighth century BCE its kings conquered Egypt and ruled as its Twenty-fifth Dynasty. Later the capital moved south to Meroë, a center of iron working and trade where rulers were buried beneath steep pyramids and scribes wrote in the Meroitic script. Queens known as kandakes, such as Amanitore in the first century CE, held great power. Kush declined in the fourth century CE as Aksum rose.",
+    "wonders": [
+      "Jebel Barkal"
+    ]
+  },
+  {
+    "name": "Ottoman",
+    "adjective": "Ottoman",
+    "civPage": "Ottoman (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Suleiman",
+        "persona": "Kanuni",
+        "page": "Suleiman (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Suleiman",
+        "persona": "Muhteşem",
+        "page": "Suleiman (Civ6)/Muhteşem",
+        "dlc": "Leader Pass – Great Commanders Pack"
+      }
+    ],
+    "real": "Ottoman Empire",
+    "wiki": "Ottoman Empire",
+    "capital": "Istanbul",
+    "place": "Süleymaniye Mosque, Istanbul, Turkey (about 1.7 km from the Byzantine marker at Hagia Sophia)",
+    "lat": 41.0162,
+    "lng": 28.9639,
+    "when": "c. 1299 – 1922",
+    "history": "The Ottoman state began around 1299 as a small Turkish principality in Anatolia led by Osman I. Its armies crossed into the Balkans, and in 1453 Mehmed II captured Constantinople, ending the Byzantine Empire and making the city, later known as Istanbul, his capital. Under Suleiman the Magnificent, who reigned from 1520 to 1566, the empire reached its height, stretching from Hungary to Baghdad and across North Africa, and Suleiman was remembered as the Lawgiver for his legal reforms. The architect Mimar Sinan built great mosques in his era. After centuries of slow decline and defeat in the First World War, the empire was abolished in 1922.",
+    "wonders": []
+  },
+  {
+    "name": "Persia",
+    "adjective": "Persian",
+    "civPage": "Persian (Civ6)",
+    "dlc": "Persia and Macedon Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Cyrus",
+        "persona": "",
+        "page": "Cyrus (Civ6)",
+        "dlc": "Persia and Macedon Civilization & Scenario Pack"
+      },
+      {
+        "name": "Nader Shah",
+        "persona": "",
+        "page": "Nader Shah (Civ6)",
+        "dlc": "Leader Pass – Great Commanders Pack"
+      }
+    ],
+    "real": "Achaemenid Persian Empire (and later Persian states)",
+    "wiki": "Achaemenid Empire",
+    "capital": "Pasargadae",
+    "place": "Pasargadae (Cyrus the Great's capital), Fars Province, Iran",
+    "lat": 30.2006,
+    "lng": 53.1792,
+    "when": "550 BCE – 330 BCE (Achaemenid); later Persian dynasties to the modern era",
+    "history": "Around 550 BCE Cyrus the Great overthrew the Medes and went on to conquer Lydia and Babylon, founding the Achaemenid Empire, the largest empire the world had yet seen. His successors, especially Darius I, organized it into satrapies linked by the Royal Road and built the ceremonial capital of Persepolis. The Persians were known for tolerating local customs and religions, and Cyrus allowed exiled peoples to return home. The empire fell to Alexander the Great in 330 BCE, but Persian culture endured through the Parthian, Sasanian, Safavid and later dynasties. In the eighteenth century Nader Shah briefly built a powerful empire, sacking Delhi in 1739.",
+    "wonders": [
+      "Apadana",
+      "Mausoleum at Halicarnassus"
+    ]
+  },
+  {
+    "name": "Phoenicia",
+    "adjective": "Phoenician",
+    "civPage": "Phoenician (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Dido",
+        "persona": "",
+        "page": "Dido (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Phoenician city-states (Tyre, Sidon, Byblos) and Carthage",
+    "wiki": "Phoenicia",
+    "capital": "Tyre",
+    "place": "Tyre, Lebanon (Dido's home city; Carthage was its colony)",
+    "lat": 33.2705,
+    "lng": 35.2038,
+    "when": "c. 1500 BCE – 300 BCE",
+    "history": "The Phoenicians lived in independent city-states such as Tyre, Sidon and Byblos along the coast of modern Lebanon. Master shipbuilders and traders, they sailed across the Mediterranean and beyond, founding colonies from Cyprus to Spain and trading timber, glass and a prized purple dye. Their simple alphabet of consonants was adopted by the Greeks and became the ancestor of many modern scripts. According to legend, the Tyrian princess Dido founded Carthage, which grew into a great power that later fought Rome in the Punic Wars. Phoenician cities were conquered by Assyria, Babylon, Persia and finally Alexander the Great, who besieged Tyre in 332 BCE.",
+    "wonders": []
+  },
+  {
+    "name": "Poland",
+    "adjective": "Polish",
+    "civPage": "Polish (Civ6)",
+    "dlc": "Poland Civilization & Scenario Pack",
+    "leaders": [
+      {
+        "name": "Jadwiga",
+        "persona": "",
+        "page": "Jadwiga (Civ6)",
+        "dlc": "Poland Civilization & Scenario Pack"
+      }
+    ],
+    "real": "Kingdom of Poland and the Polish–Lithuanian Commonwealth",
+    "wiki": "Crown of the Kingdom of Poland",
+    "capital": "Kraków",
+    "place": "Wawel Castle, Kraków, Poland",
+    "lat": 50.054,
+    "lng": 19.9354,
+    "when": "1025 – 1795",
+    "history": "Poland emerged as a Christian state under Mieszko I in 966, and Bolesław I was crowned its first king in 1025. Kraków, with its royal castle on Wawel Hill, became the capital. In 1384 Jadwiga was crowned king of Poland, and her marriage to Grand Duke Jogaila of Lithuania began a union that defeated the Teutonic Knights at Grunwald in 1410. Formalized as the Polish–Lithuanian Commonwealth in 1569, it became one of Europe's largest states, with an elected monarchy and a powerful noble parliament. Weakened by wars, the Commonwealth was partitioned by Russia, Prussia and Austria by 1795, and Poland regained independence in 1918.",
+    "wonders": []
+  },
+  {
+    "name": "Portugal",
+    "adjective": "Portuguese",
+    "civPage": "Portuguese (Civ6)",
+    "dlc": "New Frontier Pass – Portugal Pack",
+    "leaders": [
+      {
+        "name": "João III",
+        "persona": "",
+        "page": "João III (Civ6)",
+        "dlc": "New Frontier Pass – Portugal Pack"
+      }
+    ],
+    "real": "Kingdom of Portugal and the Portuguese Empire",
+    "wiki": "Portuguese Empire",
+    "capital": "Lisbon",
+    "place": "Lisbon (Praça do Comércio), Portugal",
+    "lat": 38.7077,
+    "lng": -9.1365,
+    "when": "1415 – 1999",
+    "history": "Portugal became an independent kingdom in the twelfth century and, facing the Atlantic, turned to the sea. Beginning with the capture of Ceuta in 1415, Portuguese navigators explored the coast of Africa, Bartolomeu Dias rounded the Cape of Good Hope, and Vasco da Gama reached India in 1498. Portugal built the first global maritime empire, with trading posts from Brazil to Goa, Malacca and Macau, and its caravels and naus carried spices, gold and sugar. Under João III the empire reached its height. Brazil won independence in 1822, the African colonies in the 1970s, and the handover of Macau in 1999 ended the empire.",
+    "wonders": [
+      "Torre de Belém"
+    ]
+  },
+  {
+    "name": "Rome",
+    "adjective": "Roman",
+    "civPage": "Roman (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Trajan",
+        "persona": "",
+        "page": "Trajan (Civ6)",
+        "dlc": "Base game"
+      },
+      {
+        "name": "Julius Caesar",
+        "persona": "",
+        "page": "Julius Caesar (Civ6)",
+        "dlc": "Julius Caesar Pack (free with a 2K account)"
+      }
+    ],
+    "real": "Ancient Rome (Republic and Empire)",
+    "wiki": "Ancient Rome",
+    "capital": "Rome",
+    "place": "Roman Forum, Rome, Italy",
+    "lat": 41.8925,
+    "lng": 12.4853,
+    "when": "753 BCE – 476 CE",
+    "history": "According to legend Rome was founded in 753 BCE, and after overthrowing its kings around 509 BCE it became a republic governed by elected magistrates and a senate. Its legions conquered Italy, defeated Carthage and expanded across the Mediterranean. Civil wars brought Julius Caesar to power before his assassination in 44 BCE, and his heir Augustus became the first emperor. Under emperors such as Trajan, who ruled from 98 to 117 CE, the empire reached its greatest extent, linked by roads, aqueducts and Roman law. The western empire fell in 476 CE, but Latin, law, engineering and Christianity carried its legacy forward.",
+    "wonders": [
+      "Colosseum"
+    ]
+  },
+  {
+    "name": "Russia",
+    "adjective": "Russian",
+    "civPage": "Russian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Peter",
+        "persona": "",
+        "page": "Peter (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "Tsardom of Russia and the Russian Empire",
+    "wiki": "Russian Empire",
+    "capital": "Saint Petersburg",
+    "place": "Saint Petersburg (Winter Palace), Russia",
+    "lat": 59.9398,
+    "lng": 30.3146,
+    "when": "1547 – 1917",
+    "history": "Russia grew from the medieval principalities of Kievan Rus' and the rising power of Muscovy, whose grand prince Ivan IV was crowned the first tsar in 1547. Peter the Great, who ruled from 1682 to 1725, modernized the army and state along Western lines, built a navy and founded Saint Petersburg as his new capital, proclaiming the Russian Empire in 1721. Under rulers such as Catherine the Great the empire expanded across Eastern Europe, the Caucasus and Siberia to the Pacific, becoming the largest country in the world. Russian writers, composers and ballet won worldwide fame. The empire collapsed in the revolutions of 1917.",
+    "wonders": [
+      "Hermitage",
+      "Bolshoi Theatre",
+      "St. Basil's Cathedral"
+    ]
+  },
+  {
+    "name": "Scotland",
+    "adjective": "Scottish",
+    "civPage": "Scottish (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Robert the Bruce",
+        "persona": "",
+        "page": "Robert the Bruce (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "Kingdom of Scotland",
+    "wiki": "Kingdom of Scotland",
+    "capital": "Edinburgh",
+    "place": "Edinburgh Castle, Edinburgh, United Kingdom",
+    "lat": 55.9486,
+    "lng": -3.1999,
+    "when": "843 – 1707",
+    "history": "The Kingdom of Scotland traces its origins to the union of the Picts and the Gaels of Dál Riata under Kenneth MacAlpin in the ninth century. In the late thirteenth century King Edward I of England tried to conquer it, provoking the Wars of Scottish Independence. William Wallace and then Robert the Bruce led the resistance, and Robert's victory at Bannockburn in 1314 secured the kingdom's independence. Later Scotland became a center of learning, and in 1603 its King James VI also inherited the English throne. The Acts of Union in 1707 joined Scotland and England into Great Britain, and Scots went on to shape the Enlightenment and industrial age.",
+    "wonders": []
+  },
+  {
+    "name": "Scythia",
+    "adjective": "Scythian",
+    "civPage": "Scythian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Tomyris",
+        "persona": "",
+        "page": "Tomyris (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "The Scythians and related Iranian steppe nomads (including Tomyris's Massagetae)",
+    "wiki": "Scythians",
+    "capital": "Pontic steppe",
+    "place": "Pontic steppe near Nikopol, Ukraine (area of royal kurgans such as Chertomlyk)",
+    "lat": 47.5667,
+    "lng": 34.4,
+    "when": "c. 9th century BCE – 3rd century CE",
+    "history": "The Scythians were nomadic horse peoples who dominated the Eurasian steppe, especially the grasslands north of the Black Sea, from around the ninth century BCE. Expert mounted archers, they fought Assyrians, Persians and Macedonians and traded with Greek colonies along the coast. Their elite were buried in great earthen mounds called kurgans with lavish gold ornaments decorated in a distinctive animal style. The Greek historian Herodotus described their customs and told how Queen Tomyris of the Massagetae, a related steppe people, defeated and killed Cyrus the Great. Over time the Scythians were displaced by the Sarmatians and later invaders.",
+    "wonders": []
+  },
+  {
+    "name": "Spain",
+    "adjective": "Spanish",
+    "civPage": "Spanish (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Philip II",
+        "persona": "",
+        "page": "Philip II (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "Spanish Empire",
+    "wiki": "Spanish Empire",
+    "capital": "Madrid",
+    "place": "Madrid (Plaza Mayor), Spain",
+    "lat": 40.4155,
+    "lng": -3.7074,
+    "when": "1492 – 1976",
+    "history": "Modern Spain took shape when the marriage of Isabella of Castile and Ferdinand of Aragon united their crowns, and in 1492 they completed the conquest of Granada and sponsored Christopher Columbus's voyage. Over the following century Spanish conquistadors toppled the Aztec and Inca empires, and silver from the Americas made Spain the dominant European power. Philip II, who reigned from 1556 to 1598, ruled an empire on which it was said the sun never set and made Madrid his capital. Long wars, debt and competition from rival powers brought decline. Most American colonies won independence in the early nineteenth century, and the last African territories were given up in 1976.",
+    "wonders": [
+      "Alhambra",
+      "Casa de Contratación"
+    ]
+  },
+  {
+    "name": "Sumeria",
+    "adjective": "Sumerian",
+    "civPage": "Sumerian (Civ6)",
+    "dlc": "Base game",
+    "leaders": [
+      {
+        "name": "Gilgamesh",
+        "persona": "",
+        "page": "Gilgamesh (Civ6)",
+        "dlc": "Base game"
+      }
+    ],
+    "real": "Sumer (Sumerian city-states of southern Mesopotamia)",
+    "wiki": "Sumer",
+    "capital": "Uruk",
+    "place": "Uruk (Warka), Muthanna Governorate, Iraq",
+    "lat": 31.3222,
+    "lng": 45.6358,
+    "when": "c. 4500 BCE – c. 1900 BCE",
+    "history": "Sumer, in the marshy plains of southern Mesopotamia between the Tigris and Euphrates, is often called the cradle of civilization. Its people built some of the first cities, including Uruk, Ur, Lagash and Eridu, organized around temples and later stepped ziggurats. The Sumerians developed cuneiform, one of the earliest writing systems, along with large-scale irrigation farming, early use of the wheel and some of the first law codes. Gilgamesh, a legendary king of Uruk, became the hero of the Epic of Gilgamesh, among the oldest surviving works of literature. Sumerian cities were conquered by Sargon of Akkad, and by about 1900 BCE Sumerian had faded as a spoken language.",
+    "wonders": []
+  },
+  {
+    "name": "Sweden",
+    "adjective": "Swedish",
+    "civPage": "Swedish (Civ6)",
+    "dlc": "Gathering Storm",
+    "leaders": [
+      {
+        "name": "Kristina",
+        "persona": "",
+        "page": "Kristina (Civ6)",
+        "dlc": "Gathering Storm"
+      }
+    ],
+    "real": "Kingdom of Sweden (Swedish Empire)",
+    "wiki": "Swedish Empire",
+    "capital": "Stockholm",
+    "place": "Stockholm (Gamla stan), Sweden",
+    "lat": 59.3251,
+    "lng": 18.0711,
+    "when": "1611 – 1721",
+    "history": "Sweden emerged as a kingdom in the Middle Ages, and in 1523 Gustav Vasa broke away from the Kalmar Union and founded a strong national monarchy. Under Gustavus Adolphus, a brilliant military reformer, Sweden intervened decisively in the Thirty Years' War, becoming a great power that dominated the Baltic Sea. His daughter Queen Kristina, who reigned from 1632 to 1654, was famed for her learning and patronage of scholars such as René Descartes before abdicating and converting to Catholicism. Defeat in the Great Northern War ended Sweden's age of empire in 1721. Modern Sweden is a peaceful constitutional monarchy and home of the Nobel Prizes.",
+    "wonders": []
+  },
+  {
+    "name": "Vietnam",
+    "adjective": "Vietnamese",
+    "civPage": "Vietnamese (Civ6)",
+    "dlc": "New Frontier Pass – Vietnam & Kublai Khan Pack",
+    "leaders": [
+      {
+        "name": "Bà Triệu",
+        "persona": "",
+        "page": "Bà Triệu (Civ6)",
+        "dlc": "New Frontier Pass – Vietnam & Kublai Khan Pack"
+      }
+    ],
+    "real": "Vietnam (from early Viet kingdoms to the modern state)",
+    "wiki": "Vietnam",
+    "capital": "Thăng Long (Hanoi)",
+    "place": "Imperial Citadel of Thăng Long, Hanoi, Vietnam",
+    "lat": 21.0353,
+    "lng": 105.84,
+    "when": "c. 1st millennium BCE – present",
+    "history": "Vietnamese civilization grew in the fertile Red River Delta, where the Bronze Age Đông Sơn culture produced its famous drums. For about a thousand years northern Vietnam was ruled by Chinese dynasties, provoking repeated uprisings, including those of the Trưng Sisters and, in 248 CE, of Lady Triệu, remembered as a warrior heroine. Independence was won in 938, and dynasties based at Thăng Long, now Hanoi, repelled Mongol invasions in the thirteenth century and expanded south along the coast. French colonial rule began in the nineteenth century. After long wars of independence and division, Vietnam was reunified in 1975 and is today a fast-growing nation.",
+    "wonders": []
+  },
+  {
+    "name": "Zulu",
+    "adjective": "Zulu",
+    "civPage": "Zulu (Civ6)",
+    "dlc": "Rise and Fall",
+    "leaders": [
+      {
+        "name": "Shaka",
+        "persona": "",
+        "page": "Shaka (Civ6)",
+        "dlc": "Rise and Fall"
+      }
+    ],
+    "real": "Zulu Kingdom",
+    "wiki": "Zulu Kingdom",
+    "capital": "Ulundi (oNdini)",
+    "place": "Ulundi (royal capital oNdini), KwaZulu-Natal, South Africa",
+    "lat": -28.3352,
+    "lng": 31.4161,
+    "when": "1816 – 1897",
+    "history": "The Zulu were a small Nguni clan in southeastern Africa until Shaka became their chief in 1816. Through military reforms, including age-based regiments, disciplined close-combat tactics and the short stabbing spear, he built a powerful kingdom and absorbed many neighboring peoples, though the wars of the period caused great upheaval across the region. Shaka was assassinated in 1828, but the kingdom endured. In 1879 the British invaded, and Zulu forces under King Cetshwayo won a famous victory at Isandlwana before being defeated at Ulundi. The kingdom was divided and annexed by 1897, but the Zulu remain South Africa's largest ethnic group.",
+    "wonders": []
+  }
+]

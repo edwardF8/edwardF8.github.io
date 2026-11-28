@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Bermuda Triangle",
+    "real": "Bermuda Triangle",
+    "wiki": "Bermuda Triangle",
+    "place": "North Atlantic Ocean, between Florida, Bermuda and Puerto Rico",
+    "lat": 25.0, "lng": -71.0,
+    "when": "Name coined in 1964",
+    "history": "The Bermuda Triangle is a loosely defined area of the western North Atlantic, usually drawn between Miami, Bermuda and Puerto Rico. Its fame rests on a legend rather than science: writer Vincent Gaddis coined the name in a 1964 magazine article, and 1970s bestsellers spread stories of ships and planes vanishing without a trace, most famously Flight 19, a group of five US Navy bombers lost in 1945. Investigators have found no evidence that disappearances happen here more often than in other busy, storm-prone stretches of ocean crossed by the swift Gulf Stream.",
+    "approx": true
+  },
+  {
+    "name": "Chocolate Hills",
+    "real": "Chocolate Hills",
+    "wiki": "Chocolate Hills",
+    "place": "Bohol, Philippines",
+    "lat": 9.8297, "lng": 124.1397,
+    "when": "National Geological Monument since 1988",
+    "history": "More than 1,200 near-symmetrical grassy mounds rise from the farmland of central Bohol. They are cone karst: marine limestone, uplifted from the sea floor and then sculpted by rain, streams and slow dissolution into rounded hills. Their name comes from the dry season, when the grass covering them turns chocolate brown. Boholano folklore explains them as the tears of a heartbroken giant, or as the debris left after two feuding giants hurled rocks and sand at each other for days. The Philippines declared them a National Geological Monument in 1988.",
+    "approx": false
+  },
+  {
+    "name": "Cliffs of Dover",
+    "real": "White Cliffs of Dover",
+    "wiki": "White Cliffs of Dover",
+    "place": "Kent, England, United Kingdom",
+    "lat": 51.1336, "lng": 1.3570,
+    "when": "Chalk formed in the Late Cretaceous",
+    "history": "Rising up to about 110 metres above the English Channel, the White Cliffs are made of chalk: the compacted skeletons of countless microscopic algae called coccoliths that settled on a warm sea floor in the Late Cretaceous. They face France across the Strait of Dover, the Channel's narrowest point, so for centuries they were the first or last glimpse of Britain for travellers, traders and would-be invaders; the old name Albion may come from their whiteness. During the Second World War they became a symbol of home and defiance, celebrated in a song made famous by Vera Lynn.",
+    "approx": false
+  },
+  {
+    "name": "Crater Lake",
+    "real": "Crater Lake",
+    "wiki": "Crater Lake",
+    "place": "Oregon, United States",
+    "lat": 42.9446, "lng": -122.1090,
+    "when": "Formed ~7,700 years ago",
+    "history": "Crater Lake fills a caldera left when Mount Mazama, a towering volcano in the Cascade Range, erupted violently and collapsed about 7,700 years ago. Fed almost entirely by rain and snow, with no rivers flowing in or out, it reaches a depth of 594 metres, making it the deepest lake in the United States and one of the clearest anywhere. The Klamath people, whose ancestors witnessed the eruption, tell of a battle between Llao, spirit of the world below, and Skell, spirit of the sky above. It became the centrepiece of a national park in 1902.",
+    "approx": false
+  },
+  {
+    "name": "Dead Sea",
+    "real": "Dead Sea",
+    "wiki": "Dead Sea",
+    "place": "Jordan and Palestine",
+    "lat": 31.5590, "lng": 35.4732,
+    "when": "Dead Sea Scrolls found nearby from 1947",
+    "history": "The Dead Sea is a landlocked salt lake in the Jordan Rift Valley, where the African and Arabian plates grind past each other. Its shores are the lowest land on Earth, more than 430 metres below sea level, and its water is nearly ten times saltier than the ocean, so dense that swimmers float with ease and only microbes survive in it. Herod the Great fortified the clifftop of Masada above its shore, and from 1947 the Dead Sea Scrolls were found in caves at Qumran nearby. Today it is shrinking fast as water from the Jordan River is diverted upstream.",
+    "approx": false
+  },
+  {
+    "name": "Delicate Arch",
+    "real": "Delicate Arch",
+    "wiki": "Delicate Arch",
+    "place": "Arches National Park, Utah, United States",
+    "lat": 38.7435, "lng": -109.4993,
+    "when": "Sandstone laid down in the Jurassic",
+    "history": "Delicate Arch is a freestanding sandstone arch about 16 metres tall, perched on the rim of a slickrock bowl in Arches National Park. It was carved from Entrada Sandstone, laid down as dunes and tidal flats in the Jurassic, as water seeped into cracks and froze, and wind and rain wore away the softer rock. Ute rock art survives near the trailhead, while local cowboys nicknamed the arch the Chaps or the Schoolmarm's Bloomers. Now an emblem of Utah that appears on its licence plates, it also hosted the 2002 Winter Olympic torch relay.",
+    "approx": false
+  },
+  {
+    "name": "Eye of the Sahara",
+    "real": "Richat Structure",
+    "wiki": "Richat Structure",
+    "place": "Adrar Region, Mauritania",
+    "lat": 21.1240, "lng": -11.4020,
+    "when": "Dome uplifted ~100 million years ago",
+    "history": "Seen from orbit, the Richat Structure looks like a giant bullseye about 40 kilometres across in the Mauritanian Sahara, and astronauts have long used it as a landmark. It was once thought to be a meteorite impact crater, but geologists now explain it as a deeply eroded dome: rock layers were pushed upward by molten rock, then worn down so that rings of hard quartzite stand out between bands of softer rock. Stone Age tools have been found in the area, and in recent years it has attracted fringe claims that it was the lost city of Atlantis, which geologists reject.",
+    "approx": false
+  },
+  {
+    "name": "Eyjafjallajökull",
+    "real": "Eyjafjallajökull",
+    "wiki": "Eyjafjallajökull",
+    "place": "South Iceland",
+    "lat": 63.6300, "lng": -19.6200,
+    "when": "Erupted in 2010",
+    "history": "Eyjafjallajökull, roughly 'glacier of the island mountains', is an ice cap covering a volcano about 1,650 metres high near Iceland's south coast. The volcano erupted in 920, 1612 and from 1821 to 1823 before a sudden return in 2010. In April that year, magma meeting meltwater beneath the ice shattered into fine glassy ash, and winds carried the plume over Europe, closing much of the continent's airspace for about six days and cancelling around 100,000 flights, the largest air-travel shutdown since the Second World War. Newsreaders everywhere struggled to pronounce its name.",
+    "approx": false
+  },
+  {
+    "name": "Fountain of Youth",
+    "real": "Fountain of Youth",
+    "wiki": "Fountain of Youth",
+    "place": "St. Augustine, Florida, United States (legendary)",
+    "lat": 29.9073, "lng": -81.3156,
+    "when": "Linked to Ponce de León's 1513 voyage",
+    "history": "The Fountain of Youth is a legend: a spring whose waters restore the youth of anyone who bathes in or drinks from them. Tales of such waters are ancient, but the story became attached to Juan Ponce de León, the Spanish explorer who reached Florida in 1513, through chroniclers writing after his death; there is no evidence he was actually searching for it. In St. Augustine, the Fountain of Youth Archaeological Park has drawn tourists since the early twentieth century, and archaeologists there have found traces of a Timucua village and of the Spanish settlement founded in 1565.",
+    "approx": true
+  },
+  {
+    "name": "Galápagos Islands",
+    "real": "Galápagos Islands",
+    "wiki": "Galápagos Islands",
+    "place": "Pacific Ocean, Ecuador",
+    "lat": -0.6200, "lng": -90.4000,
+    "when": "Reached by Europeans in 1535",
+    "history": "The Galápagos are a chain of volcanic islands about 900 kilometres off Ecuador, built over a hotspot in the Earth's mantle; the youngest, westernmost islands still erupt. Europeans found them by accident in 1535, when the ship of the Spanish bishop Tomás de Berlanga drifted there, and they take their name from the giant tortoises, galápagos in old Spanish. Later a haunt of pirates and whalers, the islands were visited by Charles Darwin aboard HMS Beagle in 1835, and their finches, mockingbirds and tortoises helped inspire his theory of natural selection. In 1978 they became one of the first UNESCO World Heritage Sites.",
+    "approx": false
+  },
+  {
+    "name": "Giant's Causeway",
+    "real": "Giant's Causeway",
+    "wiki": "Giant's Causeway",
+    "place": "County Antrim, Northern Ireland, United Kingdom",
+    "lat": 55.2408, "lng": -6.5117,
+    "when": "Formed 50–60 million years ago",
+    "history": "About 40,000 interlocking basalt columns, most of them six-sided, step down into the sea on the north coast of County Antrim. They formed 50 to 60 million years ago, when a thick flow of lava cooled and contracted, cracking into regular columns much as drying mud cracks into polygons. Irish legend credits the giant Fionn mac Cumhaill, or Finn McCool, who built the causeway to reach Scotland and fight his rival Benandonner; matching columns appear across the sea at Fingal's Cave on Staffa. The site became widely known in the late 1600s and was named a UNESCO World Heritage Site in 1986.",
+    "approx": false
+  },
+  {
+    "name": "Gobustan",
+    "real": "Gobustan National Park",
+    "wiki": "Gobustan State Historical and Cultural Reserve",
+    "place": "Near Baku, Azerbaijan",
+    "lat": 40.1250, "lng": 49.3750,
+    "when": "UNESCO World Heritage Site since 2007",
+    "history": "Gobustan is a rocky semi-desert near the Caspian Sea, south of Baku, where more than 6,000 rock engravings record thousands of years of human life: hunters, wild animals, dancers and reed boats. Caves and rock shelters here were inhabited from the Stone Age onward. One boulder bears a Latin inscription left by soldiers of Rome's Twelfth Legion in the late first century CE, among the easternmost Roman texts ever found. The surrounding area is also dotted with bubbling mud volcanoes, a landform for which Azerbaijan is famous. The rock art became a UNESCO World Heritage Site in 2007.",
+    "approx": false
+  },
+  {
+    "name": "Great Barrier Reef",
+    "real": "Great Barrier Reef",
+    "wiki": "Great Barrier Reef",
+    "place": "Coral Sea, Queensland, Australia",
+    "lat": -18.2871, "lng": 147.6992,
+    "when": "Living reef began growing ~9,000 years ago",
+    "history": "Stretching more than 2,300 kilometres along Queensland's coast, the Great Barrier Reef is the world's largest coral reef system, made up of roughly 2,900 individual reefs and 900 islands. It is built by billions of tiny coral polyps, and the present living reef began growing on older foundations about 9,000 years ago, as seas rose after the last ice age. Aboriginal and Torres Strait Islander peoples have fished and navigated these waters for millennia, and James Cook's Endeavour ran aground on the reef in 1770. A World Heritage Site since 1981, it has suffered repeated mass coral bleaching as the oceans warm.",
+    "approx": false
+  },
+  {
+    "name": "Hạ Long Bay",
+    "real": "Hạ Long Bay",
+    "wiki": "Hạ Long Bay",
+    "place": "Quảng Ninh Province, Vietnam",
+    "lat": 20.9100, "lng": 107.1800,
+    "when": "UNESCO World Heritage Site since 1994",
+    "history": "Hạ Long Bay, in the Gulf of Tonkin, holds around 1,600 limestone islands and islets rising steeply from emerald water. They are tower karst, sculpted over millions of years as tropical rain dissolved the limestone, then partly drowned as the sea rose after the last ice age, leaving caves, arches and hidden lagoons. Hạ Long means descending dragon: legend says dragons sent to defend Vietnam from invaders spat out jewels that became the islands. Nearby, at the mouth of the Bạch Đằng River, Vietnamese forces famously wrecked invading fleets on hidden stakes in 938 and again in 1288.",
+    "approx": false
+  },
+  {
+    "name": "Ik-Kil",
+    "real": "Ik Kil cenote",
+    "wiki": "Ik Kil",
+    "place": "Yucatán, Mexico (near Chichén Itzá)",
+    "lat": 20.6612, "lng": -88.5507,
+    "when": "Sacred water source in Maya times",
+    "history": "Ik Kil is a cenote, a natural sinkhole formed when the roof of a cave in the Yucatán Peninsula's porous limestone collapsed, opening a window onto the groundwater below. Nearly circular and open to the sky, its sheer walls drop to a deep, clear pool, draped with hanging vines and small waterfalls. The Yucatán has almost no rivers on the surface, so cenotes were the Maya's main source of fresh water, and they were also revered as entrances to Xibalba, the underworld. Lying a few kilometres from Chichén Itzá, Ik Kil is now one of the region's most popular swimming holes.",
+    "approx": false
+  },
+  {
+    "name": "Lake Retba",
+    "real": "Lake Retba (Lac Rose)",
+    "wiki": "Lake Retba",
+    "place": "Cap-Vert Peninsula, Senegal",
+    "lat": 14.8383, "lng": -17.2448,
+    "when": "Dakar Rally finish line until 2008",
+    "history": "Lake Retba, better known as Lac Rose, is a shallow lagoon north of Senegal's Cap-Vert peninsula, about 35 kilometres from Dakar, separated from the Atlantic only by a narrow band of dunes. Its water is extremely salty, at times rivalling the Dead Sea, and a salt-loving microalga, Dunaliella salina, produces red pigments that tint it pink, most vividly in the dry season. Hundreds of workers harvest salt by hand from the lake bed, protecting their skin with shea butter. For many years, until the race moved to South America in 2009, the lake was the finish line of the famous Dakar Rally.",
+    "approx": false
+  },
+  {
+    "name": "Lysefjord",
+    "real": "Lysefjorden",
+    "wiki": "Lysefjord",
+    "place": "Rogaland, Norway",
+    "lat": 59.0045, "lng": 6.3052,
+    "when": "Carved by Ice Age glaciers",
+    "history": "The Lysefjord cuts about 42 kilometres into the mountains east of Stavanger, its granite walls rising around a thousand metres almost straight out of the water. Like Norway's other fjords, it is a valley deepened by glaciers during the ice ages and flooded by the sea when the ice melted. Its name is usually explained as light fjord, after the pale granite of its cliffs. Two famous viewpoints draw hikers from around the world: Preikestolen, or Pulpit Rock, a flat-topped cliff about 600 metres above the fjord, and Kjerag, where the boulder Kjeragbolten is wedged in a crevasse high above the water.",
+    "approx": false
+  },
+  {
+    "name": "Mato Tipila",
+    "real": "Devils Tower",
+    "wiki": "Devils Tower",
+    "place": "Wyoming, United States",
+    "lat": 44.5902, "lng": -104.7146,
+    "when": "Formed ~40 million years ago",
+    "history": "Mato Tipila, meaning Bear Lodge in Lakota, is a great stump of igneous rock rising about 265 metres above the surrounding plains of northeastern Wyoming. It formed when magma cooled underground around 40 million years ago, shrinking into tall columns that were later exposed as softer rock eroded away. For the Lakota, Cheyenne, Kiowa and other nations it is sacred; one story tells of girls saved from a giant bear whose claws scored the tower's grooved sides. The English name Devils Tower arose from an 1875 mistranslation, and in 1906 it became the first US National Monument.",
+    "approx": false
+  },
+  {
+    "name": "Matterhorn",
+    "real": "Matterhorn",
+    "wiki": "Matterhorn",
+    "place": "Swiss–Italian border (Valais / Aosta Valley)",
+    "lat": 45.9764, "lng": 7.6586,
+    "when": "First climbed in 1865",
+    "history": "The Matterhorn rises to 4,478 metres on the border between Switzerland and Italy, its near-perfect pyramid carved by glaciers eroding it from several sides at once. Remarkably, its upper rocks once belonged to the African plate and were thrust over Europe as the Alps were built. On 14 July 1865 Edward Whymper's party made the first ascent, but on the descent a rope broke and four of the seven climbers fell to their deaths, a disaster that shocked Victorian Britain. Known in Italian as Monte Cervino, it towers over the resorts of Zermatt and Breuil-Cervinia.",
+    "approx": false
+  },
+  {
+    "name": "Mount Everest",
+    "real": "Mount Everest",
+    "wiki": "Mount Everest",
+    "place": "Nepal–China (Tibet) border",
+    "lat": 27.9881, "lng": 86.9250,
+    "when": "First summited in 1953",
+    "history": "At 8,849 metres, Mount Everest is the highest point on Earth above sea level, straddling the border of Nepal and the Tibet region of China. It is still being pushed upward as the Indian plate drives into Asia, and the rock at its summit is marine limestone containing fossils of ancient sea creatures. Tibetans call it Chomolungma and Nepalis Sagarmatha; the English name honours George Everest, a former Surveyor General of India, and was adopted in 1865. On 29 May 1953 Edmund Hillary and Tenzing Norgay became the first climbers confirmed to reach the summit.",
+    "approx": false
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "real": "Mount Kilimanjaro",
+    "wiki": "Mount Kilimanjaro",
+    "place": "Kilimanjaro Region, Tanzania",
+    "lat": -3.0674, "lng": 37.3556,
+    "when": "First recorded ascent in 1889",
+    "history": "Mount Kilimanjaro is a dormant volcano in northeastern Tanzania and, at 5,895 metres, the highest mountain in Africa and the tallest free-standing mountain on Earth. It has three volcanic cones, Kibo, Mawenzi and Shira, and climbers pass from farmland and rainforest through heath and alpine desert to a summit crowned with glaciers. The Chagga people have long farmed its fertile lower slopes. Hans Meyer and Ludwig Purtscheller made the first recorded ascent to the summit in 1889. Its ice fields have shrunk dramatically over the past century and may disappear within decades.",
+    "approx": false
+  },
+  {
+    "name": "Mount Roraima",
+    "real": "Mount Roraima",
+    "wiki": "Mount Roraima",
+    "place": "Venezuela–Brazil–Guyana border",
+    "lat": 5.1433, "lng": -60.7625,
+    "when": "Sandstone 1.7–2 billion years old",
+    "history": "Mount Roraima is a sheer-sided table mountain, or tepui, standing where Venezuela, Brazil and Guyana meet, its flat summit wrapped in cloud and rain for much of the year. Its cliffs rise 400 metres or more, and the sandstone it is made of is around 1.7 to 2 billion years old, among the most ancient rocks exposed on Earth. The name comes from the Pemon people, for whom the mountain holds deep spiritual meaning. In 1884 Everard im Thurn and Harry Perkins made the first recorded ascent, and reports of its strange, isolated summit helped inspire Arthur Conan Doyle's 1912 novel The Lost World.",
+    "approx": false
+  },
+  {
+    "name": "Mount Vesuvius",
+    "real": "Mount Vesuvius",
+    "wiki": "Mount Vesuvius",
+    "place": "Campania, Italy (near Naples)",
+    "lat": 40.8214, "lng": 14.4261,
+    "when": "Buried Pompeii in 79 CE",
+    "history": "Mount Vesuvius is a volcano on the Bay of Naples, formed where the African plate sinks beneath Eurasia. In 79 CE it erupted catastrophically, burying the Roman towns of Pompeii and Herculaneum under ash and searing pyroclastic flows; Pliny the Younger described the eruption in letters, and his uncle Pliny the Elder died while trying to rescue people. Their ruins, preserved in remarkable detail, are now a window onto daily Roman life. Vesuvius has erupted many times since, most recently in 1944, and with about three million people living nearby it is considered one of the most dangerous volcanoes in the world.",
+    "approx": false
+  },
+  {
+    "name": "Païtiti",
+    "real": "Paititi",
+    "wiki": "Paititi",
+    "place": "Amazon rainforest of southeastern Peru, Bolivia and Brazil (legendary)",
+    "lat": -12.5, "lng": -71.0,
+    "when": "Legend dating to the Spanish conquest",
+    "history": "Paititi is a legend: a lost Inca city, or a whole hidden realm, said to lie east of the Andes in the rainforests where southeastern Peru meets Bolivia and Brazil. According to the story, Incas fleeing the Spanish conquest in the sixteenth century carried treasure into the jungle and founded a refuge there, and colonial missionaries recorded rumours of a rich kingdom deep in the forest. The legend overlaps with tales of El Dorado. Many expeditions, especially in Peru's Madre de Dios region, have searched for it, but no lost city has ever been confirmed.",
+    "approx": true
+  },
+  {
+    "name": "Pamukkale",
+    "real": "Pamukkale",
+    "wiki": "Pamukkale",
+    "place": "Denizli Province, Turkey",
+    "lat": 37.9239, "lng": 29.1233,
+    "when": "Hierapolis founded in the 2nd century BCE",
+    "history": "Pamukkale, Turkish for cotton castle, is a hillside of brilliant white travertine terraces in southwestern Turkey. Hot springs rich in dissolved calcium carbonate flow down the slope, and as the water cools and releases carbon dioxide the mineral is deposited as stepped pools and frozen-looking cascades. Above them lie the ruins of Hierapolis, a Greco-Roman spa city founded in the second century BCE, with a theatre, baths, a vast necropolis and the Plutonium, a cave whose toxic gases were thought to mark a gate to the underworld. Hotels once built on the terraces were removed after it became a World Heritage Site in 1988.",
+    "approx": false
+  },
+  {
+    "name": "Pantanal",
+    "real": "Pantanal",
+    "wiki": "Pantanal",
+    "place": "Mato Grosso do Sul and Mato Grosso, Brazil (also Bolivia and Paraguay)",
+    "lat": -18.0, "lng": -57.0,
+    "when": "Partly a World Heritage Site since 2000",
+    "history": "The Pantanal is the world's largest tropical wetland, a vast floodplain spanning parts of Brazil, Bolivia and Paraguay, most of it in the Brazilian states of Mato Grosso and Mato Grosso do Sul. Each rainy season the Paraguay River and its tributaries overflow, submerging much of the plain before the waters retreat in the dry months. The cycle supports extraordinary wildlife, including caimans, capybaras, giant otters, hyacinth macaws and one of the densest jaguar populations anywhere. Indigenous peoples such as the Guató have long lived here alongside cattle ranches worked by pantaneiro cowboys, and record wildfires in 2020 burned about a quarter of the wetland.",
+    "approx": false
+  },
+  {
+    "name": "Piopiotahi",
+    "real": "Milford Sound",
+    "wiki": "Milford Sound",
+    "place": "Fiordland, South Island, New Zealand",
+    "lat": -44.6200, "lng": 167.8600,
+    "when": "Carved by Ice Age glaciers",
+    "history": "Piopiotahi, known in English as Milford Sound, is a fiord on the southwest coast of New Zealand's South Island, carved by glaciers during the ice ages and then flooded by the sea. Sheer cliffs rise more than a kilometre from the water, crowned by the 1,692-metre Mitre Peak, and heavy rainfall feeds countless waterfalls. In Māori tradition the name means a single piopio, a now-extinct native bird said to have flown here in mourning after the death of the demigod Māui. Māori travelled to the area for pounamu, or greenstone, and the Welsh-born sealer John Grono later named it after Milford Haven.",
+    "approx": false
+  },
+  {
+    "name": "Sahara el Beyda",
+    "real": "White Desert",
+    "wiki": "White Desert National Park",
+    "place": "Farafra, Western Desert, Egypt",
+    "lat": 27.2773, "lng": 28.2004,
+    "when": "Protected area since 2002",
+    "history": "Sahara el Beyda, the White Desert, lies in Egypt's Western Desert, about 45 kilometres north of the town of Farafra. Its chalk was laid down on the bed of an ancient sea, and sand-laden winds have since sculpted it into a landscape of brilliant white pillars, mushrooms and other strange shapes that glow pink and orange at sunrise and sunset. The surrounding sands are strewn with quartz crystals and dark iron-rich nodules. Once crossed by desert caravans travelling between the oases, it is now a protected area and a popular place for overnight camping beneath the stars.",
+    "approx": false
+  },
+  {
+    "name": "Torres del Paine",
+    "real": "Torres del Paine",
+    "wiki": "Torres del Paine National Park",
+    "place": "Magallanes Region, Patagonia, Chile",
+    "lat": -50.9423, "lng": -73.4068,
+    "when": "Granite formed ~12 million years ago",
+    "history": "The Torres del Paine are three soaring granite towers in the Cordillera Paine of Chilean Patagonia, the centrepiece of a national park created in 1959. The granite formed from magma that intruded the crust around 12 million years ago and was later exposed by glaciers, which also carved the surrounding lakes and valleys; on the neighbouring Cuernos, pale granite is still capped by darker, older rock. Paine is usually said to mean blue in the language of the Tehuelche people. Glaciers from the Southern Patagonian Ice Field, guanacos, condors and pumas make it one of South America's most celebrated wild places.",
+    "approx": false
+  },
+  {
+    "name": "Tsingy de Bemaraha",
+    "real": "Tsingy de Bemaraha",
+    "wiki": "Tsingy de Bemaraha National Park",
+    "place": "Melaky Region, western Madagascar",
+    "lat": -18.8, "lng": 44.8,
+    "when": "UNESCO World Heritage Site since 1990",
+    "history": "The Tsingy de Bemaraha in western Madagascar is a maze of razor-sharp limestone pinnacles, canyons and caves. The limestone was laid down on an ancient sea floor, and over long ages groundwater dissolved it from below while rain etched it from above, leaving a stone forest of blades and spires tens of metres high. Tsingy is often translated as the place where one cannot walk barefoot. Isolated pockets of forest among the rocks shelter rare species found nowhere else, including several kinds of lemur. It became a UNESCO World Heritage Site in 1990.",
+    "approx": false
+  },
+  {
+    "name": "Ubsunur Hollow",
+    "real": "Uvs Lake Basin",
+    "wiki": "Uvs Lake",
+    "place": "Mongolia–Russia (Tuva) border",
+    "lat": 50.33, "lng": 92.75,
+    "when": "UNESCO World Heritage Site since 2003",
+    "history": "The Ubsunur Hollow, or Uvs Lake Basin, is a closed basin straddling the border of Mongolia and the Russian republic of Tuva, with no outlet to the sea. At its heart lies Uvs Lake, large, shallow and very salty, the biggest lake in Mongolia by area. The basin packs glaciers, alpine tundra, taiga forest, steppe and sand dunes into one region with one of the harshest continental climates in Asia, sheltering snow leopards, argali sheep and many migratory birds. Some 40,000 archaeological sites, from burial mounds to rock carvings, record nomadic peoples such as the Scythians, Turks and Huns. It became a World Heritage Site in 2003.",
+    "approx": false
+  },
+  {
+    "name": "Uluru",
+    "real": "Uluru",
+    "wiki": "Uluru",
+    "place": "Northern Territory, Australia",
+    "lat": -25.3450, "lng": 131.0361,
+    "when": "Sandstone laid down over 500 million years ago",
+    "history": "Uluru is a huge sandstone monolith rising about 348 metres above the desert plains of central Australia, with much of its bulk hidden underground. Its sediments were laid down more than 500 million years ago, later tilted on end and exposed by erosion, and iron oxides in the rock make it glow red at sunrise and sunset. For the Anangu people, its traditional owners, Uluru is sacred, its caves, waterholes and markings tied to Tjukurpa, their law and creation stories. Explorer William Gosse named it Ayers Rock in 1873; it was handed back to the Anangu in 1985, and climbing was banned in 2019.",
+    "approx": false
+  },
+  {
+    "name": "Yosemite",
+    "real": "Yosemite Valley",
+    "wiki": "Yosemite Valley",
+    "place": "Sierra Nevada, California, United States",
+    "lat": 37.7400, "lng": -119.6000,
+    "when": "Protected by the Yosemite Grant in 1864",
+    "history": "Yosemite Valley is a deep, glacier-carved valley in California's Sierra Nevada, walled by granite cliffs such as El Capitan and Half Dome and fed by waterfalls including Yosemite Falls. The granite cooled from magma deep underground roughly 100 million years ago; uplift and erosion exposed it, and Ice Age glaciers widened and deepened the valley into its U shape. The Ahwahneechee people called it Ahwahnee and lived here for generations until the Mariposa Battalion, a militia sent against them, entered the valley in 1851. In 1864 Abraham Lincoln signed the Yosemite Grant, the first time the US government set aside land for public enjoyment and preservation.",
+    "approx": false
+  },
+  {
+    "name": "Zhangye Danxia",
+    "real": "Zhangye Danxia Landform",
+    "wiki": "Zhangye National Geopark",
+    "place": "Gansu, China",
+    "lat": 38.9156, "lng": 100.1332,
+    "when": "Rock layers laid down over ~24 million years",
+    "history": "The Zhangye Danxia landform in Gansu province is famous for its rainbow mountains, ridges striped red, orange, yellow and green. The stripes are layers of sandstone and siltstone laid down over some 24 million years and coloured by iron and other minerals. The same tectonic collision between India and Asia that raised the Himalayas later tilted and folded these layers, and wind and rain carved them into ridges, gullies and cliffs. The area lies at the foot of the Qilian Mountains along the Hexi Corridor, the route of the ancient Silk Road, and became a UNESCO Global Geopark in 2019.",
+    "approx": false
+  },
+  {
+    "name": "Kakadu",
+    "real": "Kakadu National Park",
+    "wiki": "Kakadu National Park",
+    "place": "Northern Territory, Australia",
+    "lat": -13.1, "lng": 132.6,
+    "when": "National park since 1979",
+    "history": "Kakadu National Park, in Australia's tropical Top End, is the country's second-largest national park, covering nearly 20,000 square kilometres of tidal flats, floodplains, monsoon forest and the sandstone cliffs of the Arnhem Land escarpment, over which waterfalls such as Jim Jim Falls plunge in the wet season. Aboriginal people have lived here for tens of thousands of years, and the rock art galleries at Ubirr and Burrungkuy are among the finest in the world. The park's name probably comes from Gaagudju, a language once spoken in the area. Jointly managed by its traditional owners and Parks Australia, it is a World Heritage Site for both its natural and cultural values.",
+    "approx": false
+  },
+  {
+    "name": "Pinnacles",
+    "real": "The Pinnacles",
+    "wiki": "The Pinnacles (Western Australia)",
+    "place": "Nambung National Park, Western Australia",
+    "lat": -30.6056, "lng": 115.1569,
+    "when": "Protected as a reserve from 1967",
+    "history": "The Pinnacles are thousands of limestone pillars rising from yellow sand dunes in Nambung National Park, about 200 kilometres north of Perth. Their raw material was seashells, broken down into lime-rich sand and blown inland to form dunes. Rainwater slowly cemented the lower layers into limestone, plant roots and erosion opened cracks, and as winds stripped away the loose sand the harder columns were left standing, the tallest about 3.5 metres high. The area lies in the traditional country of the Yued Noongar people. The Pinnacles remained unknown to most Australians until 1967, when the area became a reserve, and they are now one of Western Australia's best-loved sights.",
+    "approx": false
+  },
+  {
+    "name": "Vinland",
+    "real": "L'Anse aux Meadows",
+    "wiki": "L'Anse aux Meadows",
+    "place": "Newfoundland, Canada",
+    "lat": 51.5964, "lng": -55.5333,
+    "when": "Norse wood cut there in 1021 CE",
+    "history": "Vinland, meaning wine land, is the name Norse sagas give to a coast west of Greenland reached by Leif Erikson around the year 1000. For centuries its location was debated, until in 1960 Helge Ingstad and Anne Stine Ingstad identified the remains of Norse buildings at L'Anse aux Meadows on the northern tip of Newfoundland. Excavations revealed turf-walled halls, a smithy and iron rivets, and a 2021 tree-ring study showed Norse visitors cut wood there in 1021 CE. It is the only confirmed Norse site in the Americas outside Greenland, and was probably a base camp for voyages farther into Vinland.",
+    "approx": false
+  }
+]
