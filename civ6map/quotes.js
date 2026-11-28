@@ -1,0 +1,363 @@
+/* In-game Civilization VI quotes, from the Civilization Wiki (civilization.fandom.com). */
+window.CIV6_QUOTES = {
+"Alhambra": {
+"text": "Everything here appears calculated to inspire kind and happy feelings, for everything is delicate and beautiful.",
+"by": "Washington Irving"
+},
+"Amundsen-Scott Research Station": {
+"text": "For scientific leadership, give me Scott; for swift and efficient travel, Amundsen.",
+"by": "Sir Raymond Priestley"
+},
+"Angkor Wat": {
+"text": "The temple is surrounded by a moat, and access is by a single bridge, protected by two stone tigers so grand and fearsome as to strike terror into the visitor.",
+"by": "Diogo do Couto"
+},
+"Apadana": {
+"text": "My ancestor Darius made this Apadana, but it was burnt down. By the grace of Ahuramazda, Anahita, and Mithra, I reconstructed this Apadana.",
+"by": "Artaxerxes II"
+},
+"Big Ben": {
+"text": "Don’t watch the big clock; do what it does. Keep going.",
+"by": "Sam Levenson"
+},
+"Biosphère": {
+"text": "Heaven is under our feet as well as over our heads.",
+"by": "Henry David Thoreau"
+},
+"Bolshoi Theatre": {
+"text": "Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.",
+"by": "Trudy Garfunkel"
+},
+"Broadway": {
+"text": "There's no business like show business.",
+"by": "Irving Berlin, Annie Get Your Gun"
+},
+"Casa de Contratación": {
+"text": "All other lands found on the western side of the boundary shall belong to the King and Queen of Castille—and their successors.",
+"by": "Treaty of Tordesillas"
+},
+"Chichen Itza": {
+"text": "The Great Ball Court is also very impressive. I would like to have seen them play a game, although it sounds like the end was pretty violent. I think it was safer to be a spectator.",
+"by": "IslaDeb"
+},
+"Colosseum": {
+"text": "While the Colosseum stands, Rome shall stand; when the Colosseum falls, Rome shall fall; when Rome falls, the world shall fall.",
+"by": "Saint Bede"
+},
+"Colossus": {
+"text": "At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines.",
+"by": "Philo of Byzantium"
+},
+"Cristo Redentor": {
+"text": "Thus, the sculpture serves to give people one thought - 'Everything is in God's hands.'",
+"by": "Sergey Semenov"
+},
+"Eiffel Tower": {
+"text": "I ought to be jealous of the tower. She is more famous than I am.",
+"by": "Gustave Eiffel"
+},
+"Estádio do Maracanã": {
+"text": "Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.",
+"by": "Alcides Ghiggia, Uruguayan soccer player"
+},
+"Etemenanki": {
+"text": "Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves.",
+"by": "Genesis 11:4"
+},
+"Forbidden City": {
+"text": "The whole palace complex is built along a central axis, the axis of the world, everything in the four directions suspend from this central point represented by these palaces.",
+"by": "Jeffrey Riegel"
+},
+"Golden Gate Bridge": {
+"text": "The Golden Gate of Sleep unbar\nWhere Strength and Beauty, met together,\nKindle their image like a star\nIn a sea of glassy weather!",
+"by": "Percy Bysshe Shelley"
+},
+"Great Bath": {
+"text": "Yet in this captious and intenible sieve\nI still pour in the waters of my love\nAnd lack not to lose still: thus, Indian-like,\nReligious in mine error, I adore\nThe sun, that looks upon his worshipper,\nBut knows of him no more.",
+"by": "William Shakespeare"
+},
+"Great Library": {
+"text": "We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost.",
+"by": "Alberto Manguel"
+},
+"Great Lighthouse": {
+"text": "This Lighthouse was the cynosure of all eyes.",
+"by": "Henry David Thoreau"
+},
+"Great Zimbabwe": {
+"text": "King Solomon gave the Queen of Sheba all she desired and asked for; besides what he had given her out of his royal bounty. So she turned and went to her own country, she and her servants.",
+"by": "1 Kings, 10:13"
+},
+"Hagia Sophia": {
+"text": "It is a beautiful and important monument and an international, inter-cultural treasure … Unless and until it can be shared by both religions in harmony – which would be a grand idea – it should remain a secular building honoring both religions who have made it beautiful.",
+"by": "Ljubo Vujovic"
+},
+"Hanging Gardens": {
+"text": "The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden.",
+"by": "Strabo"
+},
+"Hermitage": {
+"text": "Museums are on the front lines of the fight for culture, of good with evil - in any case, of the fight against platitudes and primitiveness.",
+"by": "Mikhail Piotrovsky, Director of the State Hermitage"
+},
+"Huey Teocalli": {
+"text": "But the wrath of Huitzilopochtli was great, and as the sacrifice passed each of the four rooms dedicated to the sun god, the sun disappeared or reappeared in the sky.",
+"by": "Fray Diego Durán"
+},
+"Jebel Barkal": {
+"text": "At the south-west corner a large perpendicular mass of sandstone has become separated by a deep fissure from the body of the mountain … it has all the appearance of a colossal statue.",
+"by": "E. A. Wallis Budge"
+},
+"Kilwa Kisiwani": {
+"text": "Kilwa is one of the most beautifully built cities in the world; the houses there are entirely made of wood, their rooftops out of rope grass, and it rains with great vigour.",
+"by": "Ibn Battuta"
+},
+"Kotoku-in": {
+"text": "O ye who tread the Narrow Way, by Tophet-flare to Judgment Day, be gentle when ‘the heathen’ pray, to Buddha at Kamakura!",
+"by": "Rudyard Kipling"
+},
+"Machu Picchu": {
+"text": "...Eagles fly, The turrets round, and seem to flout the sky;\nThey eye those walls now crumbling in decay,\nAnd scare from quiet rest their destined prey.",
+"by": "Samuel Prout Hill"
+},
+"Mahabodhi Temple": {
+"text": "In a dusty, bustling corner of the Indian state of Bihar, there is a magical place that one might think of as the hub of Buddhism.",
+"by": "Visitor's Guide, Bodh Gaya"
+},
+"Mausoleum at Halicarnassus": {
+"text": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast.",
+"by": "Lucian of Samosata"
+},
+"Meenakshi Temple": {
+"text": "We greet you, Devi Meenakshi, she who shines like a thousand-million suns, adorned with bracelets and garlands... She who is auspicious, she who embodies existence. I always bow to you, whose compassion is an ocean.",
+"by": "Adi Shankara"
+},
+"Mont St. Michel": {
+"text": "Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.",
+"by": "Henry Adams"
+},
+"Oracle": {
+"text": "I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius; also the altar itself shall be called Delphinius and overlooked forever.",
+"by": "Homer"
+},
+"Országház": {
+"text": "With self-government is freedom, and with freedom is justice and patriotism.",
+"by": "Lajos Kossuth"
+},
+"Oxford University": {
+"text": "The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!",
+"by": "Kenneth Grahame"
+},
+"Panama Canal": {
+"text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof.",
+"by": "Psalms 46:2-3"
+},
+"Petra": {
+"text": "Petra is a brilliant display of man's artistry in turning barren rock into majestic wonder.",
+"by": "Edward Dawson"
+},
+"Potala Palace": {
+"text": "The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.",
+"by": "Pico Iyer"
+},
+"Pyramids": {
+"text": "From the heights of these pyramids, forty centuries look down on us.",
+"by": "Napoleon Bonaparte"
+},
+"Ruhr Valley": {
+"text": "The industrial heart of Germany practically stopped beating. Hardly anyone worked; hardly anything ran. The population of the Ruhr area … had to be supported by the rest of the country.",
+"by": "Adam Fergusson"
+},
+"St. Basil's Cathedral": {
+"text": "One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a [fourth] was in quarters like a melon.",
+"by": "Katharine Blanche Guthrie"
+},
+"Statue of Liberty": {
+"text": "Here at our sea-washed, sunset gates shall stand a mighty woman with a torch, whose flame is the imprisoned lightning.",
+"by": "Emma Lazarus"
+},
+"Statue of Zeus": {
+"text": "Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.",
+"by": "Samuel Augustus Mitchell"
+},
+"Stonehenge": {
+"text": "Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that … and then we can party!",
+"by": "Bill Bryson"
+},
+"Sydney Opera House": {
+"text": "An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I've left the opera house.",
+"by": "Maria Callas"
+},
+"Taj Mahal": {
+"text": "Did you ever build a castle in the air? Here is one, brought down to earth and fixed for the wonder of ages.",
+"by": "Bayard Taylor"
+},
+"Temple of Artemis": {
+"text": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.'",
+"by": "Antipater of Sidon"
+},
+"Terracotta Army": {
+"text": "There were seven wonders in the world, and the discovery of the Terracotta Army, we may say, is the eighth miracle of the world.",
+"by": "Jacques Chirac"
+},
+"Torre de Belém": {
+"text": "No vessel could pass these guns without being seriously assailed.",
+"by": "Laure Junot Abrantes"
+},
+"University of Sankore": {
+"text": "Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.",
+"by": "Musnad al-Bazzar 10/68"
+},
+"Venetian Arsenal": {
+"text": "The Commonwealth of Venice in their armory have this inscription: 'Happy is that city which in time of peace thinks of war'.",
+"by": "Robert Burton"
+},
+"Bermuda Triangle": {
+"text": "There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath … for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still.",
+"by": "Herman Melville"
+},
+"Chocolate Hills": {
+"text": "The wicked king pursued the lovers Juan and Maria on his swiftest horse. As he overtook them, Maria flung down her ring, and at once rose up seven tall hills, and the king was slowed.",
+"by": "Filipino Folk Tale"
+},
+"Cliffs of Dover": {
+"text": "Under the White Cliff's battlemented crown, Hushed to a depth of more than Sabbath peace.",
+"by": "William Wordsworth"
+},
+"Crater Lake": {
+"text": "Never again can I gaze upon the beauty spots of the Earth and enjoy them as being the finest thing I have ever seen. Crater Lake is above them all.",
+"by": "Jack London"
+},
+"Dead Sea": {
+"text": "Like to the apples on the Dead Sea's shore, all ashes to the taste.",
+"by": "Lord Byron"
+},
+"Delicate Arch": {
+"text": "If Delicate Arch has any significance it lies, I will venture, in the power of the odd and unexpected to startle the senses and surprise the mind out of their ruts of habit.",
+"by": "Edward Abbey"
+},
+"Eye of the Sahara": {
+"text": "Oddly, it appears not to be the scar of a meteorite but a deeply eroded dome, with a rainbow-inspired color scheme.",
+"by": "Chris Hadfield"
+},
+"Eyjafjallajökull": {
+"text": "An enormous and lofty column of flame allowed the people in Holt to read as perfectly at night as if it had been day.",
+"by": "Liverpool Mercury"
+},
+"Fountain of Youth": {
+"text": "Chyavana, desirous of obtaining beauty, quickly entered into the water. The twin Aswins also, O King, sank into the sheet of water. And the next moment, they all came out … in surpassingly beautiful forms, and young.",
+"by": "Anonymous"
+},
+"Galápagos Islands": {
+"text": "The natural history of this archipelago is very remarkable: it seems to be a little world within itself.",
+"by": "Charles Darwin"
+},
+"Giant's Causeway": {
+"text": "Here the dark brown amorphous basalt, there the red ochre, and below that again the slender but distinct lines of the wood-coal.",
+"by": "Dublin Penny Journal"
+},
+"Gobustan": {
+"text": "Then weave the web of the mystic measure;\nFrom the depths of the sky and the ends of the earth,\nCome, swift Spirits of might and of pleasure,\nFill the dance and the music of mirth.",
+"by": "Percy Bysshe Shelley"
+},
+"Great Barrier Reef": {
+"text": "Organisms don't think of [CO2] as a poison. Plants and organisms that make shells, coral, think of it as a building block.",
+"by": "Janine Benyus"
+},
+"Hạ Long Bay": {
+"text": "Behold the wonders of the Heavens and Earth. The clear aqua blue serves as a looking glass, thousands of turquoise crows tinged with a touch of black.",
+"by": "Nguyễn Trãi"
+},
+"Ik-Kil": {
+"text": "Son, have you seen the rain of God? It passed and entered beneath the mountains of God... There will be a ring in the sky where the water of God has passed.",
+"by": "Books of Chilam Balam"
+},
+"Lake Retba": {
+"text": "Water, water, everywhere, nor any drop to drink.",
+"by": "Samuel Taylor Coleridge, The Ancient Mariner"
+},
+"Lysefjord": {
+"text": "In this sea, and in the midst of this solitude, rises a great sombre street—a street for no human footsteps. None ever pass through there; no ship ever ventures in.",
+"by": "Victor Hugo"
+},
+"Mato Tipila": {
+"text": "Seven girls were chased by bears. The bears were just about to catch them when the girls jumped on a low rock. One of the girls prayed to the rock, \"Rock take pity on us, rock save us!\" The rock heard them and began to grow upwards, pushing the girls higher and higher.",
+"by": "Kiowa Legend"
+},
+"Matterhorn": {
+"text": "Let me ask leave, then, to pay a tribute of respect and admiration to the once desired Matterhorn, before his head has lost the last rays of a sun departing to gild loftier and more distant ranges.",
+"by": "F. Crauford Grove"
+},
+"Mount Everest": {
+"text": "It is not the mountain we conquer but ourselves.",
+"by": "Sir Edmund Hillary"
+},
+"Mount Kilimanjaro": {
+"text": "As it turns out, Mount Kilimanjaro is not wi-fi enabled, so I had to spend two weeks in Tanzania talking to the people on my trip.",
+"by": "Nancy Bonds"
+},
+"Mount Roraima": {
+"text": "It was a fantastic landscape, for all around were rocks of the weirdest forms standing in apparently impossible positions, some placed on or next to others, in ways that seemed to defy every law of gravity.",
+"by": "Goldthwaite’s Geographical Magazine"
+},
+"Mount Vesuvius": {
+"text": "The sea seemed to roll back upon itself, and to be driven from its banks by the convulsive motion of the earth; it is certain at least the shore was considerably enlarged, and several sea animals were left upon it. On the other side, a black and dreadful cloud, broken with rapid, zigzag flashes, revealed behind it variously shaped masses of flame...",
+"by": "Pliny the Younger"
+},
+"Païtiti": {
+"text": "Hidden in the glorious wildness like unmined gold.",
+"by": "John Muir"
+},
+"Pamukkale": {
+"text": "Near the Mesogis, opposite Laodicea, is Hierapolis, where are hot springs, and the Plutonium, both of which have some singular properties. The water of the springs is so easily consolidated and becomes stone, that if it is conducted through water-courses dams are formed consisting of a single piece of stone.",
+"by": "Strabo"
+},
+"Pantanal": {
+"text": "The Pantanal is the most complex intertropical alluvional plain of the planet and perhaps the least known area of the world.",
+"by": "Aziz Ab'Saber"
+},
+"Piopiotahi": {
+"text": "But as I headed into the heart of New Zealand’s fiordland that same child-like feeling, long lost, of pure unadulterated awe came rushing back. I knew the road to Milford Sound was good – but this good?",
+"by": "Darroch Donald"
+},
+"Sahara el Beyda": {
+"text": "I have filled a water-bag from my people and gone to the desert,\nAnd walked empty wastes while the wolf howled, like a gambler whose family starves.",
+"by": "Imru-ul-Quais"
+},
+"Torres del Paine": {
+"text": "Several closely situated granite peaks resembling tiger's teeth dramatically soar about a kilometer into the sky.",
+"by": "Howard Hillman"
+},
+"Tsingy de Bemaraha": {
+"text": "Tsingy is a 250-square-mile tiger trap made up on massive obelisks riddled with jagged spears. And yes, they will cut your pretty face.",
+"by": "Budd Erickson"
+},
+"Ubsunur Hollow": {
+"text": "The rising world of waters dark and deep, won from the void and formless infinite.",
+"by": "John Milton"
+},
+"Uluru": {
+"text": "What a grand sight this must present in the wet season; waterfalls in every direction!",
+"by": "William Gosse"
+},
+"Yosemite": {
+"text": "Yosemite Valley, to me, is always a sunrise, a glitter of green and golden wonder in a vast edifice of stone and space.",
+"by": "Ansel Adams"
+},
+"Zhangye Danxia": {
+"text": "With the sun shining brightly, then dusk’s mists falling, at every turn, the scenery changes like magic.",
+"by": "Fan Zhongyan"
+},
+"Kakadu": {
+"text": "A people without the knowledge of their past history, origin and culture is like a tree without roots.|quoted = Marcus Garvey",
+"by": "Marcus Garvey"
+},
+"Pinnacles": {
+"text": "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.",
+"by": "T.S. Eliot"
+},
+"Vinland": {
+"text": "Not all who wander are lost.",
+"by": "J. R. R. Tolkien"
+}
+};
